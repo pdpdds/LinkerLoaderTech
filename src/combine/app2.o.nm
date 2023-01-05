@@ -1,0 +1,6 @@
+% nm app2.o
+         U exit
+00000000 t gcc2_compiled.
+00000000 T main
+         U printf
+% 

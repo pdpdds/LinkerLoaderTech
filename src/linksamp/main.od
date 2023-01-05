@@ -1,0 +1,17 @@
+% objdump -h -p main.o
+
+main.o:     file format elf32-i386
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         0000001c  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .data         00000000  00000000  00000000  00000050  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          00000000  00000000  00000000  00000050  2**2
+                  ALLOC
+  3 .note         00000014  00000000  00000000  00000050  2**0
+                  CONTENTS, READONLY
+  4 .comment      00000028  00000000  00000000  00000064  2**0
+                  CONTENTS, READONLY
+% 

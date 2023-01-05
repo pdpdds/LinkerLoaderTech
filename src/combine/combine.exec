@@ -1,0 +1,13 @@
+% ./combine
+combine_main()
+Unknown command.
+% 
+% ./app1
+combine_main()
+app1 argc=1, argv[0]=./app1
+combine_exit(1)
+% 
+% ./app2
+combine_main()
+app2 argc=1, argv[0]=./app2
+combine_exit(2)

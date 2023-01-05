@@ -1,0 +1,2 @@
+% gcc chflg.c -o chflg -Wall
+% 

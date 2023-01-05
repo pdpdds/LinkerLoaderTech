@@ -1,0 +1,4 @@
+% gcc ordermain.o -lorder2 -lorder1 -lorder2 -L. -o duplicate_a -Wall
+% ./duplicate_a
+order1()
+order2()

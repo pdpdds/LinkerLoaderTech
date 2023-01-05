@@ -1,0 +1,13 @@
+% nm weak.o | grep sample
+00000030 T _sample_func_attr1
+00000000 T _sample_func_pragma1
+00000000 D _sample_value_pragma1
+00000030 W sample_func_attr1
+00000048 W sample_func_attr2
+00000000 W sample_func_pragma1
+00000018 W sample_func_pragma2
+00000008 V sample_value_attr1
+0000000c V sample_value_attr2
+00000000 V sample_value_pragma1
+00000004 V sample_value_pragma2
+% 

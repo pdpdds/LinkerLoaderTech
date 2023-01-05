@@ -1,0 +1,3 @@
+% gcc loader.c -o loader -T space.scr -static -Wall
+% ./chflg loader
+% 

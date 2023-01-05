@@ -1,0 +1,22 @@
+--- elf_i386.x	Wed May 12 13:46:20 2004
++++ elf_i386.x.noconst	Wed May 12 13:46:20 2004
+@@ -55,8 +55,8 @@
+   PROVIDE (__etext = .);
+   PROVIDE (_etext = .);
+   PROVIDE (etext = .);
+-  .rodata         : { *(.rodata .rodata.* .gnu.linkonce.r.*) }
+-  .rodata1        : { *(.rodata1) }
++  .rodata         : { }
++  .rodata1        : { }
+   .eh_frame_hdr : { *(.eh_frame_hdr) }
+   /* Adjust the address for the data segment.  We want to adjust up to
+      the same address within the page on the next page up.  */
+@@ -78,6 +78,8 @@
+   .data           :
+   {
+     *(.data .data.* .gnu.linkonce.d.*)
++    *(.rodata .rodata.* .gnu.linkonce.r.*)
++    *(.rodata1)
+     SORT(CONSTRUCTORS)
+   }
+   .data1          : { *(.data1) }

@@ -1,0 +1,3 @@
+% gcc -c sample.c -Wall
+% ar ruc libsample.a sample.o
+% 

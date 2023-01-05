@@ -1,0 +1,2 @@
+% objcopy --localize-symbol=num layer_lib.o layer_lib_local.o
+% 

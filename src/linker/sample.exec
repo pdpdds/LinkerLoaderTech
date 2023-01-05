@@ -1,0 +1,12 @@
+% ./sample abc def ghi
+argc = 4 ./sample abc def ghi
+sample_main()
+func()
+extvalue     = 20
+extbssvalue  = 0
+value        = 10
+bssvalue     = 0
+extfunc()
+extfunc(2,3) = 5
+func()       = 30
+% 

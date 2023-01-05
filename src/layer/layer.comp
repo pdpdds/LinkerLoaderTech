@@ -1,0 +1,2 @@
+% gcc layer.o layer_sub1.o layer_sub2.o -o layer
+% 

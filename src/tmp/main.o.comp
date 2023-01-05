@@ -1,0 +1,6 @@
+% gcc -c main.c -Wall
+% gcc -c test1.c -Wall
+% gcc -c test2.c -Wall
+% ar ruc libtest1.a test1.o
+% ar ruc libtest2.a test2.o
+% 

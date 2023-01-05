@@ -1,0 +1,4 @@
+% gcc ordermain.o order2.o order1.o order2.o -o duplicate -Wall
+order2.o: In function `order2':
+order2.o(.text+0x0): multiple definition of `order2'
+order2.o(.text+0x0): first defined here

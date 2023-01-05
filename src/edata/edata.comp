@@ -1,0 +1,2 @@
+% gcc edata.c -Wall -o edata
+% 

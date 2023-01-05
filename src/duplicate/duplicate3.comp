@@ -1,0 +1,6 @@
+% gcc dupmain.o -lduptest1 -ldup1 -lduptest2 -ldup2 -L. -o duplicate3 -Wall
+% ./duplicate3
+duptest1()
+dup1.c:duplicate()
+duptest2()
+dup1.c:duplicate()

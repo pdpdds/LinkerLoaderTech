@@ -1,0 +1,13 @@
+% ./readsec elfsamp.o
+
+.text
+.rel.text
+.data
+.bss
+.note
+.rodata
+.comment
+.shstrtab
+.symtab
+.strtab
+% 

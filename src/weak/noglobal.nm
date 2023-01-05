@@ -1,0 +1,13 @@
+% nm noglobal | grep sample
+08048554 T _sample_func_attr1
+08048524 T _sample_func_pragma1
+0804969c D _sample_value_pragma1
+08048554 W sample_func_attr1
+0804856c W sample_func_attr2
+08048524 W sample_func_pragma1
+0804853c W sample_func_pragma2
+080496a4 V sample_value_attr1
+080496a8 V sample_value_attr2
+0804969c V sample_value_pragma1
+080496a0 V sample_value_pragma2
+% 

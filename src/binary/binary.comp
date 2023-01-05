@@ -1,0 +1,3 @@
+% objcopy --add-section=bindata=binary.dat --set-section-flags=bindata=contents,alloc,load,readonly,data binary.o binary_tmp.o
+% gcc binary_tmp.o -Wall -o binary
+% 

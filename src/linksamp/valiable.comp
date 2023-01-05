@@ -1,0 +1,2 @@
+% gcc valiable.c -o valiable -Wall -T valiable.lds
+% 

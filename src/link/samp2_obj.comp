@@ -1,0 +1,2 @@
+% gcc main.c samp?.o -Wall -o samp2_obj
+% 

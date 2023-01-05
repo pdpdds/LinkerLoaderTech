@@ -1,0 +1,5 @@
+% readelf -x 5 otherscr
+
+Hex dump of section '.rodata':
+  0x080482d2                         00 0a642500 .%d..
+% 

@@ -1,0 +1,4 @@
+% gcc const_b.o const_sub.o -Wall -o const_b
+const_b.o: In function `main':
+const_b.o(.text+0xa): undefined reference to `b'
+% 

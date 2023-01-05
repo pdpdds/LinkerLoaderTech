@@ -1,0 +1,2 @@
+% gcc conflict.c -o provide -Wall -T provide.lds
+% 

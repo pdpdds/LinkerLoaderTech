@@ -1,0 +1,12 @@
+% cp layer_sub1.c layer_sub3.c
+% gcc -c layer_sub3.c
+% ld -r layer_sub1.o layer_sub3.o -o layer_lib2.o
+layer_sub3.o(.data+0x0): multiple definition of `num'
+layer_sub1.o(.data+0x0): first defined here
+layer_sub3.o: In function `printnum':
+layer_sub3.o(.text+0x0): multiple definition of `printnum'
+layer_sub1.o(.text+0x0): first defined here
+layer_sub3.o: In function `func1':
+layer_sub3.o(.text+0x20): multiple definition of `func1'
+layer_sub1.o(.text+0x20): first defined here
+% 

@@ -1,0 +1,9 @@
+% gcc combine.c combine_app1.o combine_app2.o -Wall -o combine
+% rm app1
+% rm app2
+% ln -s combine app1
+% ln -s combine app2
+% ls -l combine app?
+lrwxr-xr-x  1 hiroaki  user     7 10  3 14:21 app1 -> combine
+lrwxr-xr-x  1 hiroaki  user     7 10  3 14:21 app2 -> combine
+-rwxr-xr-x  1 hiroaki  user  5218 10  3 14:21 combine

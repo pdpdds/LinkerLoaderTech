@@ -1,0 +1,18 @@
+% readelf -l /bin/ls
+
+Elf file type is EXEC (Executable file)
+Entry point 0x80480b8
+There are 3 program headers, starting at offset 52
+
+Program Headers:
+  Type           Offset   VirtAddr   PhysAddr   FileSiz MemSiz  Flg Align
+  LOAD           0x000000 0x08048000 0x08048000 0x4426c 0x4426c R E 0x1000
+  LOAD           0x044280 0x0808d280 0x0808d280 0x01740 0x0bfd0 RW  0x1000
+  NOTE           0x000094 0x08048094 0x08048094 0x00018 0x00018 R   0x4
+
+ Section to Segment mapping:
+  Segment Sections...
+   00     .init .text .fini .rodata .note.ABI-tag 
+   01     .data .eh_frame .ctors .dtors .bss 
+   02     .note.ABI-tag 
+% 

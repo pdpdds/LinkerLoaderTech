@@ -1,0 +1,14 @@
+% nm liblayer.a
+
+layer_sub1.o:
+00000020 T func1
+00000000 t gcc2_compiled.
+00000000 D num
+         U printf
+00000000 T printnum
+
+layer_sub2.o:
+00000000 T func2
+00000000 t gcc2_compiled.
+         U num
+% 

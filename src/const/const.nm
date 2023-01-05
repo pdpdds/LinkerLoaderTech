@@ -1,0 +1,21 @@
+% nm const
+0804952c A _DYNAMIC
+080495d4 A _GLOBAL_OFFSET_TABLE_
+080495c8 ? __CTOR_END__
+
+        ...(ÃæÎ¬)...
+
+080495ec A _edata
+08049608 A _end
+08048508 T _fini
+08048334 T _init
+08048380 T _start
+08048518 R a
+         U atexit
+08049524 d completed.4
+08049608 A end
+08049604 B environ
+         U exit
+
+        ...(¸åÎ¬)...
+

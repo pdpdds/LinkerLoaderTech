@@ -1,0 +1,1 @@
+% gcc main.o --start-group -ltest2 -ltest1 --end-group -L. -o group_a -Wall

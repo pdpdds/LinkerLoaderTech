@@ -1,0 +1,1 @@
+% objcopy --redefine-sym main=app1_main --redefine-sym exit=combine_exit app1.o combine_app1.o

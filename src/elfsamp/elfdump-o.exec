@@ -1,0 +1,39 @@
+% ./elfdump elfsamp.o
+Sections:
+	[0]	
+	[1]	.text
+	[2]	.rel.text
+	[3]	.data
+	[4]	.bss
+	[5]	.note
+	[6]	.rodata
+	[7]	.comment
+	[8]	.shstrtab
+	[9]	.symtab
+	[10]	.strtab
+Segments:
+Symbols:
+	[1]	4	0	elfsamp.c
+	[5]	0	0	gcc2_compiled.
+	[6]	1	4	s2
+	[8]	2	63	sfunc
+	[9]	1	4	s1
+	[12]	1	4	g2
+	[13]	1	4	g3
+	[14]	0	0	efunc
+	[15]	1	4	g1
+	[16]	0	0	e3
+	[17]	2	60	gfunc
+	[18]	0	0	__stdoutp
+	[19]	0	0	fprintf
+Relocations:
+	[0]	14	efunc
+	[3]	12	g2
+	[4]	15	g1
+	[5]	16	e3
+	[6]	14	efunc
+	[7]	16	e3
+	[8]	15	g1
+	[10]	18	__stdoutp
+	[11]	19	fprintf
+% 

@@ -1,0 +1,14 @@
+% nm noconst
+
+        ...(ÃæÎ¬)...
+
+08048508 T _fini
+08048334 T _init
+08048380 T _start
+08049524 D a
+         U atexit
+08049518 d completed.4
+08049608 A end
+
+        ...(¸åÎ¬)...
+

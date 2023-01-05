@@ -1,0 +1,79 @@
+% ./linker sample2 main.o sample.o sample2.o service.o syscall.o crt.o
+base address is 0x0804a920
+load to 0x0804c000 (main.o)
+load to 0x0804c460 (sample.o)
+load to 0x0804cc00 (sample2.o)
+load to 0x0804cfe0 (service.o)
+load to 0x0804d4d0 (syscall.o)
+load to 0x0804d6b0 (crt.o)
+
+filename   symbol       found      type addend   called   defined  rel type
+---------- ------------ ---------- ---- -------- -------- -------- ----------
+main.o     .rodata      internal   REL  00000000 0804c03e 0804c0dc R_386_32
+main.o     print        service.o  REL  fffffffc 0804c045 0804d070 R_386_PC32
+main.o     printn       service.o  REL  fffffffc 0804c056 0804d0a8 R_386_PC32
+main.o     .rodata      internal   REL  00000008 0804c074 0804c0dc R_386_32
+main.o     print        service.o  REL  fffffffc 0804c07b 0804d070 R_386_PC32
+main.o     print        service.o  REL  fffffffc 0804c099 0804d070 R_386_PC32
+main.o     .rodata      internal   REL  0000000a 0804c0ac 0804c0dc R_386_32
+main.o     print        service.o  REL  fffffffc 0804c0b3 0804d070 R_386_PC32
+main.o     sample_main  sample.o   REL  fffffffc 0804c0bb 0804c5f4 R_386_PC32
+sample.o   .rodata      internal   REL  00000000 0804c49e 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c4a5 0804d070 R_386_PC32
+sample.o   .rodata      internal   REL  00000008 0804c4b0 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c4b7 0804d070 R_386_PC32
+sample.o   extvalue     sample2.o  REL  00000000 0804c4c2 0804cc64 R_386_32
+sample.o   printn       service.o  REL  fffffffc 0804c4ca 0804d0a8 R_386_PC32
+sample.o   .rodata      internal   REL  00000018 0804c4d5 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c4dc 0804d070 R_386_PC32
+sample.o   .rodata      internal   REL  0000001a 0804c4e7 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c4ee 0804d070 R_386_PC32
+sample.o   extbssvalue  sample2.o  REL  00000000 0804c4f9 0804cfd0 R_386_32
+sample.o   printn       service.o  REL  fffffffc 0804c501 0804d0a8 R_386_PC32
+sample.o   .rodata      internal   REL  00000018 0804c50c 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c513 0804d070 R_386_PC32
+sample.o   .rodata      internal   REL  0000002a 0804c51e 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c525 0804d070 R_386_PC32
+sample.o   .data        internal   REL  00000000 0804c530 0804c654 R_386_32
+sample.o   printn       service.o  REL  fffffffc 0804c538 0804d0a8 R_386_PC32
+sample.o   .rodata      internal   REL  00000018 0804c543 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c54a 0804d070 R_386_PC32
+sample.o   .rodata      internal   REL  0000003a 0804c555 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c55c 0804d070 R_386_PC32
+sample.o   .bss         internal   REL  00000000 0804c567 0804cbf0 R_386_32
+sample.o   printn       service.o  REL  fffffffc 0804c56f 0804d0a8 R_386_PC32
+sample.o   .rodata      internal   REL  00000018 0804c57a 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c581 0804d070 R_386_PC32
+sample.o   extfunc      sample2.o  REL  fffffffc 0804c590 0804cc34 R_386_PC32
+sample.o   .rodata      internal   REL  0000004a 0804c5a0 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c5a7 0804d070 R_386_PC32
+sample.o   printn       service.o  REL  fffffffc 0804c5b8 0804d0a8 R_386_PC32
+sample.o   .rodata      internal   REL  00000018 0804c5c3 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c5ca 0804d070 R_386_PC32
+sample.o   extvalue     sample2.o  REL  00000000 0804c5d2 0804cc64 R_386_32
+sample.o   extbssvalue  sample2.o  REL  00000000 0804c5d8 0804cfd0 R_386_32
+sample.o   .data        internal   REL  00000000 0804c5e1 0804c654 R_386_32
+sample.o   .bss         internal   REL  00000000 0804c5e7 0804cbf0 R_386_32
+sample.o   .rodata      internal   REL  0000005a 0804c5fe 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c605 0804d070 R_386_PC32
+sample.o   .rodata      internal   REL  00000069 0804c61a 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c621 0804d070 R_386_PC32
+sample.o   printn       service.o  REL  fffffffc 0804c632 0804d0a8 R_386_PC32
+sample.o   .rodata      internal   REL  00000018 0804c63d 0804c66c R_386_32
+sample.o   print        service.o  REL  fffffffc 0804c644 0804d070 R_386_PC32
+sample2.o  .rodata      internal   REL  00000000 0804cc3e 0804cc7c R_386_32
+sample2.o  print        service.o  REL  fffffffc 0804cc45 0804d070 R_386_PC32
+service.o  syscall      syscall.o  REL  fffffffc 0804d029 0804d504 R_386_PC32
+service.o  .rodata      internal   REL  00000000 0804d0d5 0804d15c R_386_32
+service.o  .rodata      internal   REL  00000000 0804d106 0804d15c R_386_32
+service.o  print        internal   REL  fffffffc 0804d130 0804d070 R_386_PC32
+crt.o      syscall      syscall.o  REL  fffffffc 0804d6f4 0804d504 R_386_PC32
+crt.o      main         main.o     REL  fffffffc 0804d759 0804c034 R_386_PC32
+crt.o      exit         internal   REL  fffffffc 0804d764 0804d700 R_386_PC32
+
+_start is found at 0x0804d718 (crt.o).
+
+% 
+% ls sample2
+sample2
+% 

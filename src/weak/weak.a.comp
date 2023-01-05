@@ -1,0 +1,2 @@
+% ar ruc libweak.a weak.o
+% ar ruc libglobal.a global.o

@@ -1,0 +1,2 @@
+% gcc addr.c -o lma -Wall -T lma.lds
+% 

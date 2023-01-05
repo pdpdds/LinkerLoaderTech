@@ -1,0 +1,12 @@
+% ./sample_static
+main()
+main():extvalue    = 1
+main():extbssvalue = 0
+extfunc()
+func()
+func():extvalue    = 1
+func():extbssvalue = 0
+func():value       = 2
+func():bssvalue    = 0
+main():extfunc()   = 7
+% 

@@ -1,0 +1,6 @@
+% nm combine_app1.o
+00000000 T app1_main
+         U combine_exit
+00000000 t gcc2_compiled.
+         U printf
+% 

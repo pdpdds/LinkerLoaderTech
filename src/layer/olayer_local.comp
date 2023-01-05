@@ -1,0 +1,4 @@
+% gcc layer.o layer_lib_local.o -o olayer_local
+layer.o: In function `main':
+layer.o(.text+0xd): undefined reference to `num'
+% 

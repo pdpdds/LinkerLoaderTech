@@ -1,0 +1,2 @@
+% gcc addr.c -o addr -Wall -T addr.lds
+% 

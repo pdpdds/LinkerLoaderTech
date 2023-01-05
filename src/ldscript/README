@@ -1,0 +1,48 @@
+リンカスクリプトのファイル名は，様々．
+拡張子が決まっていないので，いろんな名前になっている．
+
+例)
+
+FreeBSDのカーネル
+/usr/src/sys/conf
+ldscript.i386
+ldscript.alpha
+
+FreeBSD のアプリケーション用
+/usr/libdata/ldscripts
+elf_i386.x
+elf_i386.xn
+elf_i386.xs
+
+Linux のカーネル
+arch/$(ARCH)/kernel/vmlinux.lds.S
+(この他にもカーネルローダ用(多くはbootの下にある)やramdisk用などが点在している)
+
+Linux のカーネルローダ
+arch/i386/boot/compressed/vmlinux.scr
+arch/sh/boot/compressed/vmlinux.scr
+arch/arm/boot/compressed/vmlinux.lds.in
+arch/ppc/boot/ld.script
+
+NetBSD のカーネル
+sys/arch/mmeye/conf/sh.x
+sys/arch/i386/conf/kern.ldscript
+sys/arch/sparc/conf/kern.ldscript
+sys/arch/mips/conf/kern.ldscript
+(この他にもカーネルローダ用が点在しているようだ)
+
+たいていは，
+find . -name "*lds*"
+find . -name "*scr*"
+
+の両方をやれば引っかかるだろう．
+
+
+
+info binutils に，かなり多くの情報有り．
+
+
+.text を .data にマッピング(もしくは RW としてマッピング)して，
+命令置き換えの実験をする．(関数をすげかえる，とか)
+もしくは，.rodata で同じことをやって，文字列リテラル書き換えの実験をする．
+

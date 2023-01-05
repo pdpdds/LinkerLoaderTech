@@ -1,0 +1,6 @@
+% gcc -c ordermain.c -Wall
+% gcc -c order1.c -Wall
+% gcc -c order2.c -Wall
+% ar ruc liborder1.a order1.o
+% ar ruc liborder2.a order2.o
+% 

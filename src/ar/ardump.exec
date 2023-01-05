@@ -1,0 +1,20 @@
+% ./ardump ardump.o
+Sections:
+	[0]	
+	[1]	.text
+	[2]	.rel.text
+	[3]	.data
+	[4]	.bss
+	[5]	.note
+	[6]	.rodata
+	[7]	.comment
+	[8]	.shstrtab
+	[9]	.symtab
+	[10]	.strtab
+Segments:
+Symbols:
+	[1]	4	0	ardump.c
+
+        ...(¸åÎ¬)...
+
+% 

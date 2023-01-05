@@ -1,0 +1,43 @@
+% objdump -d rasm.o
+
+rasm.o:     file format elf32-i386
+
+Disassembly of section .text:
+
+00000000 <dummy_func>:
+   0:	55                   	push   %ebp
+   1:	89 e5                	mov    %esp,%ebp
+   3:	c9                   	leave  
+   4:	c3                   	ret    
+   5:	8d 76 00             	lea    0x0(%esi),%esi
+
+00000008 <func>:
+   8:	55                   	push   %ebp
+   9:	89 e5                	mov    %esp,%ebp
+   b:	a1 00 00 00 00       	mov    0x0,%eax
+  10:	8b 0d 00 00 00 00    	mov    0x0,%ecx
+  16:	8d 14 01             	lea    (%ecx,%eax,1),%edx
+  19:	03 15 04 00 00 00    	add    0x4,%edx
+  1f:	03 15 04 00 00 00    	add    0x4,%edx
+  25:	89 d0                	mov    %edx,%eax
+  27:	eb 03                	jmp    2c <func+0x24>
+  29:	8d 76 00             	lea    0x0(%esi),%esi
+  2c:	c9                   	leave  
+  2d:	c3                   	ret    
+  2e:	89 f6                	mov    %esi,%esi
+
+00000030 <main>:
+  30:	55                   	push   %ebp
+  31:	89 e5                	mov    %esp,%ebp
+  33:	83 ec 08             	sub    $0x8,%esp
+  36:	e8 fc ff ff ff       	call   37 <main+0x7>
+  3b:	e8 c8 ff ff ff       	call   8 <func>
+  40:	c7 05 00 00 00 00 00 	movl   $0x0,0x0
+  47:	00 00 00 
+  4a:	31 c0                	xor    %eax,%eax
+  4c:	eb 02                	jmp    50 <main+0x20>
+  4e:	89 f6                	mov    %esi,%esi
+  50:	c9                   	leave  
+  51:	c3                   	ret    
+  52:	89 f6                	mov    %esi,%esi
+% 

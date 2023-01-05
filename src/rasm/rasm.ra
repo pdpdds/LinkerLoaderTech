@@ -1,0 +1,46 @@
+% objdump -d rasm
+
+        ...(ÃæÎ¬)...
+
+0804846c <dummy_func>:
+ 804846c:	55                   	push   %ebp
+ 804846d:	89 e5                	mov    %esp,%ebp
+ 804846f:	c9                   	leave  
+ 8048470:	c3                   	ret    
+ 8048471:	8d 76 00             	lea    0x0(%esi),%esi
+
+08048474 <func>:
+ 8048474:	55                   	push   %ebp
+ 8048475:	89 e5                	mov    %esp,%ebp
+ 8048477:	a1 34 95 04 08       	mov    0x8049534,%eax
+ 804847c:	8b 0d 24 96 04 08    	mov    0x8049624,%ecx
+ 8048482:	8d 14 01             	lea    (%ecx,%eax,1),%edx
+ 8048485:	03 15 2c 95 04 08    	add    0x804952c,%edx
+ 804848b:	03 15 14 96 04 08    	add    0x8049614,%edx
+ 8048491:	89 d0                	mov    %edx,%eax
+ 8048493:	eb 03                	jmp    8048498 <func+0x24>
+ 8048495:	8d 76 00             	lea    0x0(%esi),%esi
+ 8048498:	c9                   	leave  
+ 8048499:	c3                   	ret    
+ 804849a:	89 f6                	mov    %esi,%esi
+
+0804849c <main>:
+ 804849c:	55                   	push   %ebp
+ 804849d:	89 e5                	mov    %esp,%ebp
+ 804849f:	83 ec 08             	sub    $0x8,%esp
+ 80484a2:	e8 21 00 00 00       	call   80484c8 <extfunc>
+ 80484a7:	e8 c8 ff ff ff       	call   8048474 <func>
+ 80484ac:	c7 05 1c 96 04 08 0b 	movl   $0x804850b,0x804961c
+ 80484b3:	85 04 08 
+ 80484b6:	31 c0                	xor    %eax,%eax
+ 80484b8:	eb 02                	jmp    80484bc <main+0x20>
+ 80484ba:	89 f6                	mov    %esi,%esi
+ 80484bc:	c9                   	leave  
+ 80484bd:	c3                   	ret    
+ 80484be:	89 f6                	mov    %esi,%esi
+
+080484c0 <dummy_extfunc>:
+
+        ...(¸åÎ¬)...
+
+% 

@@ -1,0 +1,7 @@
+% gcc addr.c -o addr -Wall -T addr.lds
+addr.c: In function `main':
+addr.c:12: warning: unsigned int format, pointer arg (arg 2)
+addr.c:12: warning: unsigned int format, pointer arg (arg 3)
+addr.c:13: warning: unsigned int format, pointer arg (arg 2)
+addr.c:13: warning: unsigned int format, pointer arg (arg 3)
+% 

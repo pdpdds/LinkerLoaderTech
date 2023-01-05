@@ -1,0 +1,2 @@
+% gcc main.o weak.o -o noglobal -Wall
+% 

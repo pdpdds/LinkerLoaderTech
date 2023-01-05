@@ -1,0 +1,6 @@
+% gcc -c dupmain.c -Wall
+% gcc -c duptest1.c -Wall
+% gcc -c duptest2.c -Wall
+% gcc -c dup1.c -Wall
+% gcc -c dup2.c -Wall
+% 

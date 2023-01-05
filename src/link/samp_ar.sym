@@ -1,0 +1,7 @@
+% ./ardump samp_ar | grep samp
+	[47]	4	0	samp1.c
+	[49]	4	0	samp2.c
+	[52]	2	5	samp22
+	[53]	2	13	samp11
+	[62]	2	5	samp21
+	[65]	2	5	samp12

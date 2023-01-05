@@ -1,0 +1,3 @@
+% gcc ordermain.o -lorder2 -lorder1 -L. -o reverse_a -Wall
+./liborder1.a(order1.o): In function `order1':
+order1.o(.text+0x17): undefined reference to `order2'

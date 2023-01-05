@@ -1,0 +1,2 @@
+% gcc -S stack_sample.c -Wall
+% 

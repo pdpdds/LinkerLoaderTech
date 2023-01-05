@@ -1,0 +1,8 @@
+% gcc -c main.c -Wall -fno-builtin
+% gcc -c sample.c -Wall -fno-builtin
+% gcc -c sample2.c -Wall -fno-builtin
+% gcc -c crt.c -Wall -fno-builtin
+% gcc -c service.c -Wall -fno-builtin
+% gcc -c syscall.s -Wall -fno-builtin
+% gcc main.o sample.o sample2.o crt.o service.o syscall.o -o sample -Wall -nostdlib
+% 

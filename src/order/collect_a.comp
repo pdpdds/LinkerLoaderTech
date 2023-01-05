@@ -1,0 +1,8 @@
+% ar ruc libcollect.a order1.o order2.o
+% ar t libcollect.a
+order1.o
+order2.o
+% gcc ordermain.o -lcollect -L. -o collect_a -Wall
+% ./collect_a
+order1()
+order2()

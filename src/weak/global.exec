@@ -1,0 +1,8 @@
+sample_func_pragma1(global)
+sample_func_pragma2(global)
+sample_func_attr1(global)
+sample_func_attr2(global)
+sample_value_pragma1 = 10
+sample_value_pragma2 = 20
+sample_value_attr1   = 30
+sample_value_attr2   = 40

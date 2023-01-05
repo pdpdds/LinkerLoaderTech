@@ -1,0 +1,3 @@
+% gcc -c samp2.c -Wall
+% ar ruc libsamp.a samp2.o
+% 

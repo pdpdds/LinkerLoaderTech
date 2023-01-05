@@ -1,0 +1,39 @@
+% ./ardump /usr/lib/libc.a
+This is archive file.
+symbol table found.
+string table found.
+found: wmemset.o
+found: wmemmove.o
+found: wmemcpy.o
+
+        ...(ÃæÎ¬)...
+
+found: xdr_stdio.o
+found: xdr_float.o
+found: svc_unix.o
+Sections:
+	[0]	
+	[1]	.text
+	[2]	.rodata
+	[3]	.data
+	[4]	.bss
+	[5]	.comment
+	[6]	.note
+	[7]	.shstrtab
+	[8]	.symtab
+	[9]	.strtab
+Segments:
+Symbols:
+	[10]	2	40	wmemset
+Relocations:
+Sections:
+	[0]	
+
+        ...(ÃæÎ¬)...
+
+	[15]	2	63	sigdelset
+Relocations:
+	[0]	12	__error
+	[1]	12	__error
+	[2]	12	__error
+% 

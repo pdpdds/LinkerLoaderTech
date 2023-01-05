@@ -1,0 +1,2 @@
+% gcc main.o -L. -lweak -o noglobal_a -Wall
+% 

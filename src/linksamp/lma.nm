@@ -1,0 +1,15 @@
+% nm lma
+
+        ...(ÃæÎ¬)...
+
+08048308 t init_dummy
+08048214 T main
+080487e8 b object.11
+0804871c d p.3
+         U printf
+080487e8 B sbss
+08048718 D sdata
+08048380 R srdata
+080480f4 T stext
+12345678 A value
+% 

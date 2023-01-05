@@ -1,0 +1,2 @@
+% gcc main.c -Wall -L. -lsamp -o samp2_ar
+% 

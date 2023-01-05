@@ -1,0 +1,6 @@
+% ar ruc libduptest1.a duptest1.o
+% ar ruc libduptest2.a duptest2.o
+% ar ruc libdup1.a dup1.o
+% ar ruc libdup2.a dup2.o
+% ar ruc libdup.a dup1.o dup2.o
+% 

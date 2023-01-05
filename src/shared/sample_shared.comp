@@ -1,0 +1,3 @@
+% gcc -c main.c -Wall
+% gcc -Wl,-rpath=. main.o -L. -lsample -o sample_shared
+% 

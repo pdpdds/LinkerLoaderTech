@@ -1,0 +1,5 @@
+% ./edata
+&__fini_array_end = 0x08049584
+&edata            = 0x08049654
+&end              = 0x08049670
+% 

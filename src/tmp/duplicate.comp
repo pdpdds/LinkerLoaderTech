@@ -1,0 +1,4 @@
+% gcc main.o test2.o test1.o test2.o -o duplicate -Wall
+test2.o: In function `test2':
+test2.o(.text+0x0): multiple definition of `test2'
+test2.o(.text+0x0): first defined here

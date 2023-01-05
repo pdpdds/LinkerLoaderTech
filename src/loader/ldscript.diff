@@ -1,0 +1,18 @@
+--- elf_i386.x	Sat May 21 22:08:08 2005
++++ space.scr	Sat May 21 22:08:08 2005
+@@ -40,14 +40,15 @@
+   .init           :
+   {
+     KEEP (*(.init))
+   } =0x90909090
+   .plt            : { *(.plt) }
+   .text           :
+   {
++    . += 0x40000; /* テキスト領域の先頭に空きを作る */
+     *(.text .stub .text.* .gnu.linkonce.t.*)
+     /* .gnu.warning sections are handled specially by elf32.em.  */
+     *(.gnu.warning)
+   } =0x90909090
+   .fini           :
+   {
+     KEEP (*(.fini))

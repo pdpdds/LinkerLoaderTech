@@ -1,0 +1,4 @@
+% gcc ordermain.o order2.o order1.o -o reverse -Wall
+% ./reverse
+order1()
+order2()

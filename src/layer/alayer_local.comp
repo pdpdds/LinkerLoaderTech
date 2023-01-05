@@ -1,0 +1,6 @@
+% gcc layer.o -o alayer_local -L. -llayer_local
+layer.o: In function `main':
+layer.o(.text+0xd): undefined reference to `num'
+./liblayer_local.a(layer_sub2.o): In function `func2':
+layer_sub2.o(.text+0x5): undefined reference to `num'
+% 

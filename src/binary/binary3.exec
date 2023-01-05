@@ -1,0 +1,5 @@
+% ./binary3
+__start_bindata = 0x08049678
+__stop_bindata  = 0x08049686
+This is test.
+% 

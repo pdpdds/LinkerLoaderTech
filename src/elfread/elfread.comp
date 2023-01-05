@@ -1,0 +1,2 @@
+% gcc -c elfread.c -Wall
+% gcc elfread.o -Wall -o elfread

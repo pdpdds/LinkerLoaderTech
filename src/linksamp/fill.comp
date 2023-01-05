@@ -1,0 +1,2 @@
+% gcc fill.c -o fill -Wall -T fill.lds
+% 

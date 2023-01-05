@@ -1,0 +1,35 @@
+% objdump -d sample_shared
+
+sample_shared:     file format elf32-i386
+
+Disassembly of section .init:
+
+080483ec <_init>:
+ 80483ec:	e8 4b 01 00 00       	call   804853c <frame_dummy>
+ 80483f1:	e8 ee 01 00 00       	call   80485e4 <__do_global_ctors_aux>
+ 80483f6:	c3                   	ret    
+Disassembly of section .plt:
+
+080483f8 <.plt>:
+ 80483f8:	ff 35 54 97 04 08    	pushl  0x8049754
+ 80483fe:	ff 25 58 97 04 08    	jmp    *0x8049758
+ 8048404:	00 00                	add    %al,(%eax)
+ 8048406:	00 00                	add    %al,(%eax)
+ 8048408:	ff 25 5c 97 04 08    	jmp    *0x804975c
+ 804840e:	68 00 00 00 00       	push   $0x0
+ 8048413:	e9 e0 ff ff ff       	jmp    80483f8 <_init+0xc>
+ 8048418:	ff 25 60 97 04 08    	jmp    *0x8049760
+ 804841e:	68 08 00 00 00       	push   $0x8
+ 8048423:	e9 d0 ff ff ff       	jmp    80483f8 <_init+0xc>
+ 8048428:	ff 25 64 97 04 08    	jmp    *0x8049764
+ 804842e:	68 10 00 00 00       	push   $0x10
+ 8048433:	e9 c0 ff ff ff       	jmp    80483f8 <_init+0xc>
+ 8048438:	ff 25 68 97 04 08    	jmp    *0x8049768
+ 804843e:	68 18 00 00 00       	push   $0x18
+ 8048443:	e9 b0 ff ff ff       	jmp    80483f8 <_init+0xc>
+Disassembly of section .text:
+
+08048448 <_start>:
+
+        ...(¸åÎ¬)...
+

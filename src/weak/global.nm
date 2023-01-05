@@ -1,0 +1,13 @@
+% nm global | grep sample
+08048554 T _sample_func_attr1
+08048524 T _sample_func_pragma1
+0804976c D _sample_value_pragma1
+080485b4 T sample_func_attr1
+080485cc T sample_func_attr2
+08048584 T sample_func_pragma1
+0804859c T sample_func_pragma2
+08049784 D sample_value_attr1
+08049788 D sample_value_attr2
+0804977c D sample_value_pragma1
+08049780 D sample_value_pragma2
+% 

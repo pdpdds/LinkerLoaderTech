@@ -1,0 +1,8 @@
+SECTIONS
+{
+	.bindata : {
+		__start_bindata = .;
+		*(.data)
+		__stop_bindata = .;
+	}
+}

@@ -1,0 +1,1 @@
+% gcc ctors.c -Wall -o ctors

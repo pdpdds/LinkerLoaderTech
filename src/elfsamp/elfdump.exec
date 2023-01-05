@@ -1,0 +1,22 @@
+% ./elfdump elfsamp
+Sections:
+	[0]	
+	[1]	.interp
+
+        ...(ÃæÎ¬)...
+
+Segments:
+	[0]	
+	[1]	.interp 
+	[2]	 .interp .note.ABI-tag .hash .dynsym .dynstr .rel.bss .rel.plt .init .plt .text .fini .rodata 
+	[3]	.data .eh_frame .dynamic .ctors .dtors .got .bss 
+	[4]	.dynamic 
+	[5]	.note.ABI-tag 
+Symbols:
+	[25]	4	0	crtstuff.c
+	[26]	0	0	gcc2_compiled.
+	[27]	1	0	p.3
+
+        ...(¸åÎ¬)...
+
+% 

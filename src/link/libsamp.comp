@@ -1,0 +1,6 @@
+% gcc -c samp1.c -Wall
+% gcc -c samp2.c -Wall
+% gcc -c samp3.c -Wall
+% gcc -c samp4.c -Wall
+% ar ruc libsamp.a samp?.o
+% 

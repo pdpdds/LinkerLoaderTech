@@ -1,0 +1,4 @@
+% gcc ordermain.o --start-group -lorder2 -lorder1 --end-group -L. -o group_a -Wall
+% ./group_a
+order1()
+order2()

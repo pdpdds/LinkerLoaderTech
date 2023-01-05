@@ -1,0 +1,3 @@
+% gcc continue.c -o continue -T space.scr -static -Wall
+% ./chflg continue
+% 

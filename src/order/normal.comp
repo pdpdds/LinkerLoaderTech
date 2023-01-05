@@ -1,0 +1,4 @@
+% gcc ordermain.o order1.o order2.o -o normal -Wall
+% ./normal
+order1()
+order2()

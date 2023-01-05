@@ -1,0 +1,5 @@
+% ldd sample_shared
+sample_shared:
+	libsample.so.1 => ./libsample.so.1 (0x28066000)
+	libc.so.4 => /usr/lib/libc.so.4 (0x28068000)
+% 

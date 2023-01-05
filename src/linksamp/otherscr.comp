@@ -1,0 +1,2 @@
+% gcc main.o lib1.o lib2.o -Wall -o otherscr -T sample.lds
+% 

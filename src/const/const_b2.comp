@@ -1,0 +1,2 @@
+% gcc const_b.o const_sub_b.o -Wall -o const_b2
+% 

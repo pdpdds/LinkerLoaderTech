@@ -1,0 +1,4 @@
+% nm const_sub_local.o
+00000000 r a
+00000000 t gcc2_compiled.
+% 

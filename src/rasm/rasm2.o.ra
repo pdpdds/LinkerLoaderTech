@@ -1,0 +1,23 @@
+% objdump -d rasm2.o
+
+rasm2.o:     file format elf32-i386
+
+Disassembly of section .text:
+
+00000000 <dummy_extfunc>:
+   0:	55                   	push   %ebp
+   1:	89 e5                	mov    %esp,%ebp
+   3:	c9                   	leave  
+   4:	c3                   	ret    
+   5:	8d 76 00             	lea    0x0(%esi),%esi
+
+00000008 <extfunc>:
+   8:	55                   	push   %ebp
+   9:	89 e5                	mov    %esp,%ebp
+   b:	31 c0                	xor    %eax,%eax
+   d:	eb 01                	jmp    10 <extfunc+0x8>
+   f:	90                   	nop    
+  10:	c9                   	leave  
+  11:	c3                   	ret    
+  12:	89 f6                	mov    %esi,%esi
+% 

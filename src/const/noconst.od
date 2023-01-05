@@ -1,0 +1,20 @@
+% objdump -h noconst
+
+noconst:     file format elf32-i386
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .interp       00000019  080480f4  080480f4  000000f4  2**0
+                  CONTENTS, ALLOC, LOAD, READONLY, DATA
+
+        ...(ÃæÎ¬)...
+
+  9 .fini         00000006  08048508  08048508  00000508  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+ 10 .data         00000018  08049510  08049510  00000510  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+ 11 .eh_frame     00000004  08049528  08049528  00000528  2**2
+                  CONTENTS, ALLOC, LOAD, DATA
+
+        ...(¸åÎ¬)...
+

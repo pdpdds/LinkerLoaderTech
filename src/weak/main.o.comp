@@ -1,0 +1,4 @@
+% gcc -c main.c -Wall
+% gcc -c weak.c -Wall
+% gcc -c global.c -Wall
+% 

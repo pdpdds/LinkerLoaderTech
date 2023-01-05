@@ -1,0 +1,2 @@
+% gcc -c ardump.c -Wall
+% gcc ardump.o -Wall -o ardump

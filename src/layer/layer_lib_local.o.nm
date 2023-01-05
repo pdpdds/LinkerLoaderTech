@@ -1,0 +1,9 @@
+% nm layer_lib_local.o
+00000020 T func1
+0000002c T func2
+0000002c t gcc2_compiled.
+00000000 t gcc2_compiled.
+00000000 d num
+         U printf
+00000000 T printnum
+% 

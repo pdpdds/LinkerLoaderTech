@@ -1,0 +1,31 @@
+objdump -d sample_pic.o
+
+sample_pic.o:     file format elf32-i386
+
+Disassembly of section .text:
+
+00000000 <func>:
+   0:	55                   	push   %ebp
+   1:	89 e5                	mov    %esp,%ebp
+   3:	83 ec 14             	sub    $0x14,%esp
+   6:	53                   	push   %ebx
+   7:	e8 00 00 00 00       	call   c <func+0xc>
+   c:	5b                   	pop    %ebx
+   d:	81 c3 03 00 00 00    	add    $0x3,%ebx
+  13:	83 c4 f4             	add    $0xfffffff4,%esp
+  16:	8d 93 00 00 00 00    	lea    0x0(%ebx),%edx
+  1c:	89 d0                	mov    %edx,%eax
+  1e:	50                   	push   %eax
+  1f:	e8 fc ff ff ff       	call   20 <func+0x20>
+  24:	83 c4 10             	add    $0x10,%esp
+  27:	83 c4 f8             	add    $0xfffffff8,%esp
+  2a:	8b 83 00 00 00 00    	mov    0x0(%ebx),%eax
+  30:	8b 10                	mov    (%eax),%edx
+  32:	52                   	push   %edx
+  33:	8d 93 08 00 00 00    	lea    0x8(%ebx),%edx
+  39:	89 d0                	mov    %edx,%eax
+  3b:	50                   	push   %eax
+  3c:	e8 fc ff ff ff       	call   3d <func+0x3d>
+
+        ...(¸åÎ¬)...
+

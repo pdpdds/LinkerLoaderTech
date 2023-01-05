@@ -1,0 +1,73 @@
+Sections:
+	[0]	
+	[1]	.text
+	[2]	.rel.text
+	[3]	.data
+	[4]	.bss
+	[5]	.note
+	[6]	.rodata
+	[7]	.comment
+	[8]	.shstrtab
+	[9]	.symtab
+	[10]	.strtab
+Segments:
+Symbols:
+	[1]	4	0	ardump.c
+	[5]	0	0	gcc2_compiled.
+	[7]	2	1241	elfdump
+	[10]	0	0	__stderrp
+	[11]	0	0	fprintf
+	[12]	0	0	printf
+	[13]	0	0	strcmp
+	[14]	2	602	main
+	[15]	0	0	open
+	[16]	0	0	exit
+	[17]	0	0	fstat
+	[18]	0	0	mmap
+	[19]	0	0	memcmp
+	[20]	0	0	atoi
+	[21]	0	0	strchr
+	[22]	0	0	munmap
+	[23]	0	0	close
+Relocations:
+	[1]	10	__stderrp
+	[2]	11	fprintf
+	[4]	10	__stderrp
+	[5]	11	fprintf
+	[7]	10	__stderrp
+	[8]	11	fprintf
+	[10]	12	printf
+	[12]	12	printf
+	[14]	13	strcmp
+	[16]	12	printf
+	[18]	12	printf
+	[20]	12	printf
+	[22]	12	printf
+	[24]	12	printf
+	[26]	12	printf
+	[28]	12	printf
+	[30]	12	printf
+	[31]	15	open
+	[32]	16	exit
+	[33]	17	fstat
+	[34]	18	mmap
+	[36]	19	memcmp
+	[38]	10	__stderrp
+	[39]	11	fprintf
+	[40]	20	atoi
+	[42]	19	memcmp
+	[44]	10	__stderrp
+	[45]	11	fprintf
+	[47]	19	memcmp
+	[49]	10	__stderrp
+	[50]	11	fprintf
+	[52]	10	__stderrp
+	[53]	11	fprintf
+	[54]	16	exit
+	[55]	20	atoi
+	[56]	21	strchr
+	[58]	10	__stderrp
+	[59]	11	fprintf
+	[60]	22	munmap
+	[61]	23	close
+	[62]	16	exit
