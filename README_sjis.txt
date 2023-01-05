@@ -1,302 +1,300 @@
-2010.08.30 âˆäO—º
+2010.08.30 å‚äº•å¼˜äº®
 
-–{ƒtƒ@ƒCƒ‹‚Í‘Ğ
-uƒŠƒ“ƒJEƒ[ƒ_À‘HŠJ”­ƒeƒNƒjƒbƒNv(âˆäO—ºC2010/08CCQo”ÅĞ)
-‚Ì•t˜^‚Å‚·D
+ë³¸ íŒŒì¼ì€ ì„œì 
+ã€Œë§ì»¤,ë¡œë” ì‹¤ì „ ê°œë°œ í…Œí¬ë‹‰ã€(å‚äº•å¼˜äº®ï¼Œ2010/08ï¼ŒCQì¶œíŒì‚¬)
+ì˜ ë¶€ë¡ì…ë‹ˆë‹¤.
 
-¡ column
+â–  column
 
-’Ç‰ÁƒRƒ‰ƒ€‚Å‚·DYØ“I‚È–â‘è‚ÅC–{•¶‚É‚ÍŒfÚ‚³‚ê‚È‚©‚Á‚½‚à‚Ì‚Å‚·D
-ˆóü‚µ‚ÄCw’è‚Ìƒy[ƒW‚É‚Í‚³‚ñ‚Å‚¨‚­‚Æ‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñD
+ì¶”ê°€ ì»¬ëŸ¼ì…ë‹ˆë‹¤ï¼ë§ˆê° ë‚ ì§œ ë¬¸ì œë¡œ ë³¸ë¬¸ì—ëŠ” ê²Œì¬ë˜ì§€ ì•Šì€ ë‚´ìš©ì…ë‹ˆë‹¤.   
+ì¸ì‡„í•´ì„œ ì§€ì •ëœ í˜ì´ì§€ì— ë¼ì›Œ ë‘ë©´ ì¢‹ì„ê²ƒì…ë‹ˆë‹¤.
 
-‚Æ‚­‚ÉˆÈ‰º‚Ì•¶Í‚ÍC‚È‚©‚È‚©à–¾‚³‚ê‚Ä‚¢‚é‘—¿‚à–³‚¢‚½‚ßˆê“Ç‚µ‚Ä‚¨‚­‚Æ‚¢‚¢‚©‚à
-‚µ‚ê‚Ü‚¹‚ñD
+íŠ¹íˆ ì•„ë˜ ë‚´ìš©ì€ íŠ¹ë³„íˆ ì„¤ëª…ëœ ìë£Œê°€ ì—†ê¸° ë•Œë¬¸ì— í•œ ë²ˆ ì½ì–´ ë³´ëŠ” ê²ƒì´ ì¢‹ì„ ê²ƒì…ë‹ˆë‹¤
 
 column-sec6-p152.txt
-uMEMORYƒRƒ}ƒ“ƒh‚É‚æ‚éƒAƒhƒŒƒXŠ„‚è“–‚Ä‚Ì§Œäv
+ã€ŒMEMORY ì»¤ë§¨ë“œì— ë”°ë¥¸ ì–´ë“œë ˆìŠ¤ í• ë‹¹ ì œì–´ã€
 
 column-sec10-p249.txt
-uƒOƒ[ƒoƒ‹Eƒ|ƒCƒ“ƒ^‚Ì—˜—pv
+ã€Œê¸€ë¡œë²Œ í¬ì¸í„°ì˜ ì‚¬ìš©ã€
 
-¡ src
+â–  src
 
-–{•¶’†‚ÅĞ‰î‚³‚ê‚Ä‚¢‚éƒeƒLƒXƒg(å‚ÉƒvƒƒOƒ‰ƒ€‚Ìƒ\[ƒXƒR[ƒh‚âo—ÍŒ‹‰Ê‚È‚Ç)‚Æ
-‚»‚Ì‘¼‚à‚ë‚à‚ë‚Å‚·D
+ë³¸ë¬¸ì—ì„œ ì†Œê°œí•˜ê³  ìˆëŠ” í…ìŠ¤íŠ¸(ì£¼ë¡œ í”„ë¡œê·¸ë¨ì˜ ì†ŒìŠ¤ì½”ë“œë‚˜ ì¶œë ¥ê²°ê³¼ ë“±)ì™€  
+ê¸°íƒ€ ì—¬ëŸ¬ê°€ì§€ì…ë‹ˆë‹¤.
 
-–{ƒtƒ@ƒCƒ‹‚Í–³•ÛØ‚Å‚·DŒÂl‚ÌÓ”C‚Ì‰º‚Å—˜—p‚µ‚Ä‚­‚¾‚³‚¢D
-ƒtƒ@ƒCƒ‹‚Ì»ìÒEo”ÅĞ‚ÍC–{ƒ\[ƒXƒR[ƒh‚ğ—˜—p‚·‚é‚±‚Æ‚Å”­¶‚·‚é‚¢‚©‚È‚é
-Ó”C‚à•‰‚¢‚Ü‚¹‚ñD
+ë³¸ íŒŒì¼ì˜ ì‚¬ìš©ì— ëŒ€í•´ì„œëŠ” ì±…ì„ì„ ì§€ì§€ ì•ŠìŠµë‹ˆë‹¤. ê°œì¸ì˜ ì±…ì„í•˜ì— ì‚¬ìš©í•´ ì£¼ì„¸ìš”.   
+íŒŒì¼ì˜ ì œì‘ìãƒ»ì¶œíŒì‚¬ëŠ” ë³¸ ì†ŒìŠ¤ì½”ë“œë¥¼ ì´ìš©í•´ì„œ ë°œìƒí•˜ëŠ” ì–´ë– í•œ ì±…ì„ë„ ì§€ì§€ ì•ŠìŠµë‹ˆë‹¤.   
 
-ˆê•”‚Ìƒ\[ƒXƒR[ƒh‚ÍCFreeBSD/NetBSD/GNU+Linux‚È‚Ç‚©‚ç‚Ì”²ˆ(—¬—p)‚Å‚·D
-‚±‚ê‚ç‚Ìƒ\[ƒXƒR[ƒh‚Ì’˜ìŒ ‚ÍC—¬—pŒ³‚É‘®‚µ‚Ü‚·D—¬—pŒ³‚É‚Â‚¢‚Ä‚Í‘Ğ‚Ì–{•¶‚ğ
-QÆ‚µ‚Ä‚­‚¾‚³‚¢D‚Æ‚­‚Éà–¾‚Ì–³‚¢‚à‚Ì‚ÍCFreeBSD‚à‚µ‚­‚ÍFreeBSD‚É“Y•t‚³‚ê‚Ä
-”z•z‚³‚ê‚Ä‚¢‚éGNU»ƒc[ƒ‹‚Ìƒ\[ƒXƒR[ƒh‚©‚ç‚Ì—¬—p‚Å‚·D
+ìë¶€ ì†ŒìŠ¤ì½”ë“œëŠ” FreeBSD/NetBSD/GNU+Linux ë“±ì—ì„œ ë°œì·Œí–ˆìŠµë‹ˆë‹¤. 
+ì´ëŸ° ì†ŒìŠ¤ì½”ë“œì˜ ì €ì‘ê¶Œì€ í•´ë‹¹ í”„ë¡œì íŠ¸ì— ìˆìŠµë‹ˆë‹¤. í•´ë‹¹ í”„ë¡œì íŠ¸ì— ëŒ€í•´ì„œëŠ” ì„œì ì˜ ë³¸ë¬¸ì„   
+ì°¸ì¡°í•´ ì£¼ì„¸ìš”. íŠ¹ë³„íˆ ì„¤ëª…ì´ ì—†ëŠ” ë‚´ìš©ì€ FreeBSD ë˜ëŠ” FreeBSDì— ì²¨ë¶€ë˜ì–´ ë°°í¬í•˜ëŠ”   
+GNU íˆ´ì˜ ì†ŒìŠ¤ì½”ë“œê°€ ì› ì¶œì²˜ì…ë‹ˆë‹¤.
 
-‚»‚êˆÈŠO‚Ìƒ\[ƒXƒR[ƒh‚Í‘Ğ‚Ì·•MÒ‚Å‚ ‚éâˆä‚ªì¬‚µ‚½‚à‚Ì‚Å‚·D
-ŒÂl‚ÌÓ”C‚Ì‰º‚ÅC©—R‚É—˜—p‚µ‚Ä\‚¢‚Ü‚¹‚ñD
+ãã‚Œä»¥å¤–ã®ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ã¯æ›¸ç±ã®åŸ·ç­†è€…ã§ã‚ã‚‹å‚äº•ãŒä½œæˆã—ãŸã‚‚ã®ã§ã™ï¼
+å€‹äººã®è²¬ä»»ã®ä¸‹ã§ï¼Œè‡ªç”±ã«åˆ©ç”¨ã—ã¦æ§‹ã„ã¾ã›ã‚“ï¼
 
-ƒ\[ƒXƒR[ƒh’†‚É‚ÍC‘Ğ’†‚ÅĞ‰î‚µ‚Ä‚¢‚È‚¢ÀŒ±—p‚Ì‚à‚Ì‚È‚Ç‚àŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·D
-©—R‚É—˜—p‚µ‚Ä‚­‚¾‚³‚¢D
+ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ä¸­ã«ã¯ï¼Œæ›¸ç±ä¸­ã§ç´¹ä»‹ã—ã¦ã„ãªã„å®Ÿé¨“ç”¨ã®ã‚‚ã®ãªã©ã‚‚å«ã¾ã‚Œã¦ã„ã¾ã™ï¼
+è‡ªç”±ã«åˆ©ç”¨ã—ã¦ãã ã•ã„ï¼
 
-ˆÈ‰º‚ªƒ\[ƒXƒR[ƒhˆê——‚Å‚·D
-ƒŠƒXƒg”Ô†‚ÍC‘Ğ‚Ì–{•¶’†‚Å‚Ì”Ô†‚Å‚·D
-}‚É‚Â‚¢‚Ä‚Íˆê•”‚Ì‚İˆÈ‰ºˆê——‚ÉŒfÚ‚µ‚Ä‚ ‚è‚Ü‚·‚ªCo—ÍŒ‹‰Ê‚È‚Ç‚Ì‘½‚­‚Ì‚à‚Ì‚Í
-srcƒfƒBƒŒƒNƒgƒŠˆÈ‰º‚É‚ ‚è‚Ü‚·‚Ì‚ÅC•K—v‚È‚ç‚Î’T‚µ‚Ä‚İ‚é‚Æ‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñD
+ä»¥ä¸‹ãŒã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰ä¸€è¦§ã§ã™ï¼
+ãƒªã‚¹ãƒˆç•ªå·ã¯ï¼Œæ›¸ç±ã®æœ¬æ–‡ä¸­ã§ã®ç•ªå·ã§ã™ï¼
+å›³ã«ã¤ã„ã¦ã¯ä¸€éƒ¨ã®ã¿ä»¥ä¸‹ä¸€è¦§ã«æ²è¼‰ã—ã¦ã‚ã‚Šã¾ã™ãŒï¼Œå‡ºåŠ›çµæœãªã©ã®å¤šãã®ã‚‚ã®ã¯
+srcãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªä»¥ä¸‹ã«ã‚ã‚Šã¾ã™ã®ã§ï¼Œå¿…è¦ãªã‚‰ã°æ¢ã—ã¦ã¿ã‚‹ã¨ã„ã„ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ï¼
 
 --------------------------------------------------------------------------------
-ƒŠƒXƒg”Ô†	“à—e						ƒ\[ƒXƒR[ƒh
+ãƒªã‚¹ãƒˆç•ªå·	å†…å®¹						ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰
 --------------------------------------------------------------------------------
-ƒŠƒXƒg1.1	hello.c						src/hello/hello.c
-ƒŠƒXƒg1.2	gcc -v ‚ÌŒ‹‰Ê					src/hello/gcc-v.out
-ƒŠƒXƒg1.3	size hello ‚ÌŒ‹‰Ê				src/hello/size.out
-ƒŠƒXƒg1.4	objdump -h hello ‚ÌŒ‹‰Ê				src/hello/objdump.out
-ƒŠƒXƒg1.5	/usr/src/usr.bin/size/size.c ‚æ‚è”²ˆ		src/hello/size_aout.c
-ƒŠƒXƒg1.6	struct exec ‚Ì’è‹`(imgact_aout.h ‚æ‚è”²ˆ)	src/hello/imgact_aout.h
-ƒŠƒXƒg1.7	hello ‚Ìæ“ª•”•ª‚Ì16iƒ_ƒ“ƒv			src/hello/hello_dump.txt
-ƒŠƒXƒg1.8	/usr/src/contrib/binutils/binutils/size.c ‚æ‚è”²ˆ
+ãƒªã‚¹ãƒˆ1.1	hello.c						src/hello/hello.c
+ãƒªã‚¹ãƒˆ1.2	gcc -v ã®çµæœ					src/hello/gcc-v.out
+ãƒªã‚¹ãƒˆ1.3	size hello ã®çµæœ				src/hello/size.out
+ãƒªã‚¹ãƒˆ1.4	objdump -h hello ã®çµæœ				src/hello/objdump.out
+ãƒªã‚¹ãƒˆ1.5	/usr/src/usr.bin/size/size.c ã‚ˆã‚ŠæŠœç²‹		src/hello/size_aout.c
+ãƒªã‚¹ãƒˆ1.6	struct exec ã®å®šç¾©(imgact_aout.h ã‚ˆã‚ŠæŠœç²‹)	src/hello/imgact_aout.h
+ãƒªã‚¹ãƒˆ1.7	hello ã®å…ˆé ­éƒ¨åˆ†ã®16é€²ãƒ€ãƒ³ãƒ—			src/hello/hello_dump.txt
+ãƒªã‚¹ãƒˆ1.8	/usr/src/contrib/binutils/binutils/size.c ã‚ˆã‚ŠæŠœç²‹
 								src/hello/size_elf.c
-ƒŠƒXƒg1.9	objdump -p hello ‚ÌŒ‹‰Ê				src/hello/objdump-p.out
-ƒŠƒXƒg1.10	—lX‚È•Ï”‚Ì’è‹`(values_sub.c)			src/values/values_sub.c
-ƒŠƒXƒg1.11	—lX‚È•Ï”‚Ì’è‹`(values.c)			src/values/values.c
-ƒŠƒXƒg1.12	nm values_sub.o ‚ÌŒ‹‰Ê				src/values/values_sub_nm.out
-ƒŠƒXƒg1.13	nm values ‚ÌŒ‹‰Ê				src/values/values_nm.out
-ƒŠƒXƒg1.14	objdump -h values ‚ÌŒ‹‰Ê			src/values/objdump.out
-ƒŠƒXƒg1.15	values ‚ÌÀsŒ‹‰Ê				src/values/values.out
-ƒŠƒXƒg1.16	strip values ‚ÌÀsŒ‹‰Ê				src/values/strip.out
-ƒŠƒXƒg1.17	ƒŠƒ“ƒJƒXƒNƒŠƒvƒg‚Ì—Œ^				---
-ƒŠƒXƒg1.18	ƒGƒ“ƒgƒŠƒ|ƒCƒ“ƒg‚É‚Â‚¢‚Ä(info ld ‚æ‚è”²ˆ)	---
-ƒŠƒXƒg1.19	ENTRY()‚Ìw’è(elf_i386.x ‚æ‚è”²ˆ)		---
+ãƒªã‚¹ãƒˆ1.9	objdump -p hello ã®çµæœ				src/hello/objdump-p.out
+ãƒªã‚¹ãƒˆ1.10	æ§˜ã€…ãªå¤‰æ•°ã®å®šç¾©(values_sub.c)			src/values/values_sub.c
+ãƒªã‚¹ãƒˆ1.11	æ§˜ã€…ãªå¤‰æ•°ã®å®šç¾©(values.c)			src/values/values.c
+ãƒªã‚¹ãƒˆ1.12	nm values_sub.o ã®çµæœ				src/values/values_sub_nm.out
+ãƒªã‚¹ãƒˆ1.13	nm values ã®çµæœ				src/values/values_nm.out
+ãƒªã‚¹ãƒˆ1.14	objdump -h values ã®çµæœ			src/values/objdump.out
+ãƒªã‚¹ãƒˆ1.15	values ã®å®Ÿè¡Œçµæœ				src/values/values.out
+ãƒªã‚¹ãƒˆ1.16	strip values ã®å®Ÿè¡Œçµæœ				src/values/strip.out
+ãƒªã‚¹ãƒˆ1.17	ãƒªãƒ³ã‚«ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®é››å‹				---
+ãƒªã‚¹ãƒˆ1.18	ã‚¨ãƒ³ãƒˆãƒªãƒã‚¤ãƒ³ãƒˆã«ã¤ã„ã¦(info ld ã‚ˆã‚ŠæŠœç²‹)	---
+ãƒªã‚¹ãƒˆ1.19	ENTRY()ã®æŒ‡å®š(elf_i386.x ã‚ˆã‚ŠæŠœç²‹)		---
 --------------------------------------------------------------------------------
-ƒŠƒXƒg2.1	ELFƒtƒ@ƒCƒ‹‰ğÍ—pƒTƒ“ƒvƒ‹(elfsamp.c)		src/elfsamp/elfsamp.c
-ƒŠƒXƒg2.2	ELFƒtƒ@ƒCƒ‹‰ğÍ—pƒTƒ“ƒvƒ‹(main.c)		src/elfsamp/main.c
-ƒŠƒXƒg2.3	ELF32ƒwƒbƒ_(elf32.h)				---
-ƒŠƒXƒg2.4	readelf -h elfsamp.o ‚ÌŒ‹‰Ê			src/elfsamp/readelf-o-h.out
-ƒŠƒXƒg2.5	brandelf.c ‚æ‚è”²ˆ				---
-ƒŠƒXƒg2.6	ELF32—pƒZƒNƒVƒ‡ƒ“ƒwƒbƒ_(elf32.h)		---
-ƒŠƒXƒg2.7	readelf -S elfsamp.o ‚ÌŒ‹‰Ê			src/elfsamp/readelf-o-S.out
-ƒŠƒXƒg2.8	readelf -x 8 elfsamp.o ‚ÌŒ‹‰Ê			src/elfsamp/readelf-o-x.out
-ƒŠƒXƒg2.9	ƒZƒNƒVƒ‡ƒ“–¼ˆê——‚Ì•\¦‚Ì—á(readsec.c)		src/elfsamp/readsec.c
-ƒŠƒXƒg2.10	ELF32—pƒvƒƒOƒ‰ƒ€ƒwƒbƒ_(elf32.h)		---
-ƒŠƒXƒg2.11	readelf -l elfsamp ‚ÌŒ‹‰Ê			src/elfsamp/readelf-l.out
-ƒŠƒXƒg2.12	©g‚ÌELFƒwƒbƒ_‚ğ“Ç‚İ‚Ş—á(elfread.c)		src/elfread/elfread.c
-ƒŠƒXƒg2.13	ƒVƒ“ƒ{ƒ‹ƒe[ƒuƒ‹—p\‘¢‘Ì(ELF32)			---
-ƒŠƒXƒg2.14	readelf -s elfsamp.o ‚ÌŒ‹‰Ê			src/elfsamp/readelf-o-s.out
-ƒŠƒXƒg2.15	Ä”z’uƒGƒ“ƒgƒŠ(ELF32)				---
-ƒŠƒXƒg2.16	readelf -r elfsamp.o ‚ÌŒ‹‰Ê			src/elfsamp/readelf-o-r.out
-ƒŠƒXƒg2.17	ELFŒ`®‚Ìƒ_ƒ“ƒvƒvƒƒOƒ‰ƒ€‚Ì—á(elfdump.c)	src/elfsamp/elfdump.c
-ƒŠƒXƒg2.18	elfdump elfsamp.o ‚ÌÀsŒ‹‰Ê			src/elfsamp/elfdump-o.exec
-ƒŠƒXƒg2.19	elfdump elfsamp ‚ÌÀsŒ‹‰Ê			src/elfsamp/elfdump.exec
+ãƒªã‚¹ãƒˆ2.1	ELFãƒ•ã‚¡ã‚¤ãƒ«è§£æç”¨ã‚µãƒ³ãƒ—ãƒ«(elfsamp.c)		src/elfsamp/elfsamp.c
+ãƒªã‚¹ãƒˆ2.2	ELFãƒ•ã‚¡ã‚¤ãƒ«è§£æç”¨ã‚µãƒ³ãƒ—ãƒ«(main.c)		src/elfsamp/main.c
+ãƒªã‚¹ãƒˆ2.3	ELF32ãƒ˜ãƒƒãƒ€(elf32.h)				---
+ãƒªã‚¹ãƒˆ2.4	readelf -h elfsamp.o ã®çµæœ			src/elfsamp/readelf-o-h.out
+ãƒªã‚¹ãƒˆ2.5	brandelf.c ã‚ˆã‚ŠæŠœç²‹				---
+ãƒªã‚¹ãƒˆ2.6	ELF32ç”¨ã‚»ã‚¯ã‚·ãƒ§ãƒ³ãƒ˜ãƒƒãƒ€(elf32.h)		---
+ãƒªã‚¹ãƒˆ2.7	readelf -S elfsamp.o ã®çµæœ			src/elfsamp/readelf-o-S.out
+ãƒªã‚¹ãƒˆ2.8	readelf -x 8 elfsamp.o ã®çµæœ			src/elfsamp/readelf-o-x.out
+ãƒªã‚¹ãƒˆ2.9	ã‚»ã‚¯ã‚·ãƒ§ãƒ³åä¸€è¦§ã®è¡¨ç¤ºã®ä¾‹(readsec.c)		src/elfsamp/readsec.c
+ãƒªã‚¹ãƒˆ2.10	ELF32ç”¨ãƒ—ãƒ­ã‚°ãƒ©ãƒ ãƒ˜ãƒƒãƒ€(elf32.h)		---
+ãƒªã‚¹ãƒˆ2.11	readelf -l elfsamp ã®çµæœ			src/elfsamp/readelf-l.out
+ãƒªã‚¹ãƒˆ2.12	è‡ªèº«ã®ELFãƒ˜ãƒƒãƒ€ã‚’èª­ã¿è¾¼ã‚€ä¾‹(elfread.c)		src/elfread/elfread.c
+ãƒªã‚¹ãƒˆ2.13	ã‚·ãƒ³ãƒœãƒ«ãƒ†ãƒ¼ãƒ–ãƒ«ç”¨æ§‹é€ ä½“(ELF32)			---
+ãƒªã‚¹ãƒˆ2.14	readelf -s elfsamp.o ã®çµæœ			src/elfsamp/readelf-o-s.out
+ãƒªã‚¹ãƒˆ2.15	å†é…ç½®ã‚¨ãƒ³ãƒˆãƒª(ELF32)				---
+ãƒªã‚¹ãƒˆ2.16	readelf -r elfsamp.o ã®çµæœ			src/elfsamp/readelf-o-r.out
+ãƒªã‚¹ãƒˆ2.17	ELFå½¢å¼ã®ãƒ€ãƒ³ãƒ—ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ä¾‹(elfdump.c)	src/elfsamp/elfdump.c
+ãƒªã‚¹ãƒˆ2.18	elfdump elfsamp.o ã®å®Ÿè¡Œçµæœ			src/elfsamp/elfdump-o.exec
+ãƒªã‚¹ãƒˆ2.19	elfdump elfsamp ã®å®Ÿè¡Œçµæœ			src/elfsamp/elfdump.exec
 --------------------------------------------------------------------------------
-ƒŠƒXƒg3.1	ƒA[ƒJƒCƒuƒwƒbƒ_‚Ì’è‹`(ar.h ‚æ‚è”²ˆ)		src/ar/ar.h
-ƒŠƒXƒg3.2	4.4BSD—R—ˆ‚ÌƒA[ƒJƒCƒu(bsdar.a)			src/ar/bsdar.a
-ƒŠƒXƒg3.3	GNU binutils ‚ÌƒA[ƒJƒCƒu(gnuar.a)		src/ar/gnuar.a
-ƒŠƒXƒg3.4	ƒA[ƒJƒCƒuƒtƒ@ƒCƒ‹‚Ìƒ_ƒ“ƒv(readname.c)		src/ar/readname.c
-ƒŠƒXƒg3.5	ƒA[ƒJƒCƒuƒtƒ@ƒCƒ‹‚Ì‰ğÍ(ardump.c)		src/ar/ardump.c
-ƒŠƒXƒg3.6	ƒIƒuƒWƒFƒNƒgƒtƒ@ƒCƒ‹(ardump.o)‚Ì‰ğÍ—á		src/ar/ardump.exec
-ƒŠƒXƒg3.7	ƒ‰ƒCƒuƒ‰ƒŠƒA[ƒJƒCƒu(/usr/lib/libc.a)‚Ì‰ğÍ—á	src/ar/ardump.exec2
-ƒŠƒXƒg3.8	main() ŠÖ”(main.c)				src/link/main.c
-ƒŠƒXƒg3.9	ƒTƒ“ƒvƒ‹ƒtƒ@ƒCƒ‹‚P(samp1.c)			src/link/samp1.c
-ƒŠƒXƒg3.10	ƒTƒ“ƒvƒ‹ƒtƒ@ƒCƒ‹‚Q(samp2.c)			src/link/samp2.c
-ƒŠƒXƒg3.11	ƒTƒ“ƒvƒ‹ƒtƒ@ƒCƒ‹‚R(samp3.c)			src/link/samp3.c
-ƒŠƒXƒg3.12	ƒTƒ“ƒvƒ‹ƒtƒ@ƒCƒ‹‚S(samp4.c)			src/link/samp4.c
-ƒŠƒXƒg3.13	ƒTƒ“ƒvƒ‹ƒtƒ@ƒCƒ‹‚Q‚ÌC³(samp2.c)		src/link/samp2d.c
+ãƒªã‚¹ãƒˆ3.1	ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ãƒ˜ãƒƒãƒ€ã®å®šç¾©(ar.h ã‚ˆã‚ŠæŠœç²‹)		src/ar/ar.h
+ãƒªã‚¹ãƒˆ3.2	4.4BSDç”±æ¥ã®ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–(bsdar.a)			src/ar/bsdar.a
+ãƒªã‚¹ãƒˆ3.3	GNU binutils ã®ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–(gnuar.a)		src/ar/gnuar.a
+ãƒªã‚¹ãƒˆ3.4	ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ€ãƒ³ãƒ—(readname.c)		src/ar/readname.c
+ãƒªã‚¹ãƒˆ3.5	ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ãƒ•ã‚¡ã‚¤ãƒ«ã®è§£æ(ardump.c)		src/ar/ardump.c
+ãƒªã‚¹ãƒˆ3.6	ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆãƒ•ã‚¡ã‚¤ãƒ«(ardump.o)ã®è§£æä¾‹		src/ar/ardump.exec
+ãƒªã‚¹ãƒˆ3.7	ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚¢ãƒ¼ã‚«ã‚¤ãƒ–(/usr/lib/libc.a)ã®è§£æä¾‹	src/ar/ardump.exec2
+ãƒªã‚¹ãƒˆ3.8	main() é–¢æ•°(main.c)				src/link/main.c
+ãƒªã‚¹ãƒˆ3.9	ã‚µãƒ³ãƒ—ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ï¼‘(samp1.c)			src/link/samp1.c
+ãƒªã‚¹ãƒˆ3.10	ã‚µãƒ³ãƒ—ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ï¼’(samp2.c)			src/link/samp2.c
+ãƒªã‚¹ãƒˆ3.11	ã‚µãƒ³ãƒ—ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ï¼“(samp3.c)			src/link/samp3.c
+ãƒªã‚¹ãƒˆ3.12	ã‚µãƒ³ãƒ—ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ï¼”(samp4.c)			src/link/samp4.c
+ãƒªã‚¹ãƒˆ3.13	ã‚µãƒ³ãƒ—ãƒ«ãƒ•ã‚¡ã‚¤ãƒ«ï¼’ã®ä¿®æ­£(samp2.c)		src/link/samp2d.c
 ---		checksym.c					src/checksym/checksym.c
 --------------------------------------------------------------------------------
-ƒŠƒXƒg4.1	”z—ñ‚Æƒ|ƒCƒ“ƒ^(pointer.c)			src/pointer/pointer.c
-}4.2		nm pointer ‚ÌŒ‹‰Ê				src/pointer/pointer.nm
-}4.3		objdump -h pointer ‚ÌŒ‹‰Ê			src/pointer/pointer.od
-ƒŠƒXƒg4.2	const ’è‹`‚µ‚½•Ï”‚É’l‚ğ‘ã“ü‚·‚é(const.c)	src/const/const.c
-ƒŠƒXƒg4.3	const ’è‹`‚µ‚½•Ï”‚É’l‚ğ‘ã“ü‚·‚é(const_sub.c)	src/const/const_sub.c
-}4.8		nm const ‚ÌŒ‹‰Ê					src/const/const.nm
-}4.9		objdump -h const ‚ÌŒ‹‰Ê				src/const/const.od
-ƒŠƒXƒg4.4	ƒŠƒ“ƒJƒXƒNƒŠƒvƒg‚ÌC³				src/const/elf_i386.diff
-}4.12		nm noconst ‚ÌŒ‹‰Ê				src/const/noconst.nm
-}4.13		objdump -h noconst ‚ÌŒ‹‰Ê			src/const/noconst.od
-ƒŠƒXƒg4.5	ƒVƒ“ƒ{ƒ‹ƒ^ƒCƒv‚É‚Â‚¢‚Ä(info nm ‚æ‚è”²ˆ)	---
-ƒŠƒXƒg4.6	•Ï” b ‚ÌQÆ(const_b.c)			src/const/const_b.c
-ƒŠƒXƒg4.7	•Ï” num ‚ÌQÆ(layer.c)			src/layer/layer.c
-ƒŠƒXƒg4.8	•Ï” num ‚Ì’è‹`(layer_sub1.c)			src/layer/layer_sub1.c
-ƒŠƒXƒg4.9	•Ï” num ‚ÌQÆ(layer_sub2.c)			src/layer/layer_sub2.c
-}4.27		nm liblayer.a ‚ÌŒ‹‰Ê				src/layer/liblayer.a.nm
-}4.31		nm liblayer_local.a ‚ÌŒ‹‰Ê			src/layer/liblayer_local.a.nm
-}4.35		nm layer_lib.o ‚ÌŒ‹‰Ê				src/layer/layer_lib.o.nm
-}4.38		nm layer_lib_local.o ‚ÌŒ‹‰Ê			src/layer/layer_lib_local.o.nm
-ƒŠƒXƒg4.10	•Ï” num ‚ğ‘€ì‚µ‚È‚¢(layer2.c)			src/layer/layer2.c
-}4.41		ƒVƒ“ƒ{ƒ‹‚ªd•¡‚·‚éê‡				src/layer/layer_lib2.o.comp
-ƒŠƒXƒg4.11	NetBSD/hpcsh —pƒŠƒ“ƒJƒXƒNƒŠƒvƒg(ehl-elf.x ‚æ‚è”²ˆ)
+ãƒªã‚¹ãƒˆ4.1	é…åˆ—ã¨ãƒã‚¤ãƒ³ã‚¿(pointer.c)			src/pointer/pointer.c
+å›³4.2		nm pointer ã®çµæœ				src/pointer/pointer.nm
+å›³4.3		objdump -h pointer ã®çµæœ			src/pointer/pointer.od
+ãƒªã‚¹ãƒˆ4.2	const å®šç¾©ã—ãŸå¤‰æ•°ã«å€¤ã‚’ä»£å…¥ã™ã‚‹(const.c)	src/const/const.c
+ãƒªã‚¹ãƒˆ4.3	const å®šç¾©ã—ãŸå¤‰æ•°ã«å€¤ã‚’ä»£å…¥ã™ã‚‹(const_sub.c)	src/const/const_sub.c
+å›³4.8		nm const ã®çµæœ					src/const/const.nm
+å›³4.9		objdump -h const ã®çµæœ				src/const/const.od
+ãƒªã‚¹ãƒˆ4.4	ãƒªãƒ³ã‚«ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®ä¿®æ­£				src/const/elf_i386.diff
+å›³4.12		nm noconst ã®çµæœ				src/const/noconst.nm
+å›³4.13		objdump -h noconst ã®çµæœ			src/const/noconst.od
+ãƒªã‚¹ãƒˆ4.5	ã‚·ãƒ³ãƒœãƒ«ã‚¿ã‚¤ãƒ—ã«ã¤ã„ã¦(info nm ã‚ˆã‚ŠæŠœç²‹)	---
+ãƒªã‚¹ãƒˆ4.6	å¤‰æ•° b ã®å‚ç…§(const_b.c)			src/const/const_b.c
+ãƒªã‚¹ãƒˆ4.7	å¤‰æ•° num ã®å‚ç…§(layer.c)			src/layer/layer.c
+ãƒªã‚¹ãƒˆ4.8	å¤‰æ•° num ã®å®šç¾©(layer_sub1.c)			src/layer/layer_sub1.c
+ãƒªã‚¹ãƒˆ4.9	å¤‰æ•° num ã®å‚ç…§(layer_sub2.c)			src/layer/layer_sub2.c
+å›³4.27		nm liblayer.a ã®çµæœ				src/layer/liblayer.a.nm
+å›³4.31		nm liblayer_local.a ã®çµæœ			src/layer/liblayer_local.a.nm
+å›³4.35		nm layer_lib.o ã®çµæœ				src/layer/layer_lib.o.nm
+å›³4.38		nm layer_lib_local.o ã®çµæœ			src/layer/layer_lib_local.o.nm
+ãƒªã‚¹ãƒˆ4.10	å¤‰æ•° num ã‚’æ“ä½œã—ãªã„(layer2.c)			src/layer/layer2.c
+å›³4.41		ã‚·ãƒ³ãƒœãƒ«ãŒé‡è¤‡ã™ã‚‹å ´åˆ				src/layer/layer_lib2.o.comp
+ãƒªã‚¹ãƒˆ4.11	NetBSD/hpcsh ç”¨ãƒªãƒ³ã‚«ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(ehl-elf.x ã‚ˆã‚ŠæŠœç²‹)
 								---
-ƒŠƒXƒg4.12	PROVIDE()‚Ìw’è(elf_i386.x ‚æ‚è”²ˆ)		---
-ƒŠƒXƒg4.13	ƒVƒ“ƒ{ƒ‹‚ÌƒAƒhƒŒƒX‚Ì•\¦(edata.c)		src/edata/edata.c
-}4.46		objdump -h edata ‚ÌŒ‹‰Ê				src/edata/edata.od
-ƒŠƒXƒg4.14	‰Šú‰»‚ğ”CˆÓ‚És‚È‚¤(initialize.c)		src/initialize/initialize.c
-}4.47		initialize ‚ÌÀsŒ‹‰Ê				src/initialize/initialize.comp
+ãƒªã‚¹ãƒˆ4.12	PROVIDE()ã®æŒ‡å®š(elf_i386.x ã‚ˆã‚ŠæŠœç²‹)		---
+ãƒªã‚¹ãƒˆ4.13	ã‚·ãƒ³ãƒœãƒ«ã®ã‚¢ãƒ‰ãƒ¬ã‚¹ã®è¡¨ç¤º(edata.c)		src/edata/edata.c
+å›³4.46		objdump -h edata ã®çµæœ				src/edata/edata.od
+ãƒªã‚¹ãƒˆ4.14	åˆæœŸåŒ–ã‚’ä»»æ„ã«è¡Œãªã†(initialize.c)		src/initialize/initialize.c
+å›³4.47		initialize ã®å®Ÿè¡Œçµæœ				src/initialize/initialize.comp
 								src/initialize/initialize.exec
-ƒŠƒXƒg4.15	do_ctors()‚Ì’è‹`(crtbegin.c‚æ‚è”²ˆ)		---
-ƒŠƒXƒg4.16	ctor_end[]‚Ì’è‹`(crtend.c ‚æ‚è”²ˆ)		---
-ƒŠƒXƒg4.17	.ctors ƒZƒNƒVƒ‡ƒ“‚Ì’è‹`(elf_i386.x‚æ‚è”²ˆ)	---
-ƒŠƒXƒg4.18	ŠÖ”‚Ì©“®ŒÄ‚Ño‚µ(ctors.c)			src/ctors/ctors.c
-}4.48		ctors ‚ÌƒAƒhƒŒƒX”z’u				src/ctors/ctors.comp
+ãƒªã‚¹ãƒˆ4.15	do_ctors()ã®å®šç¾©(crtbegin.cã‚ˆã‚ŠæŠœç²‹)		---
+ãƒªã‚¹ãƒˆ4.16	ctor_end[]ã®å®šç¾©(crtend.c ã‚ˆã‚ŠæŠœç²‹)		---
+ãƒªã‚¹ãƒˆ4.17	.ctors ã‚»ã‚¯ã‚·ãƒ§ãƒ³ã®å®šç¾©(elf_i386.xã‚ˆã‚ŠæŠœç²‹)	---
+ãƒªã‚¹ãƒˆ4.18	é–¢æ•°ã®è‡ªå‹•å‘¼ã³å‡ºã—(ctors.c)			src/ctors/ctors.c
+å›³4.48		ctors ã®ã‚¢ãƒ‰ãƒ¬ã‚¹é…ç½®				src/ctors/ctors.comp
 								src/ctors/ctors.nm
 								src/ctors/ctors.od
-ƒŠƒXƒg4.19	do_dtors()‚Ì’è‹`(crtbegin.c‚æ‚è”²ˆ)		---
-ƒŠƒXƒg4.20	atexit() ‚É‚æ‚é _fini() ‚Ì“o˜^(crt1.c:_start()‚æ‚è”²ˆ)
+ãƒªã‚¹ãƒˆ4.19	do_dtors()ã®å®šç¾©(crtbegin.cã‚ˆã‚ŠæŠœç²‹)		---
+ãƒªã‚¹ãƒˆ4.20	atexit() ã«ã‚ˆã‚‹ _fini() ã®ç™»éŒ²(crt1.c:_start()ã‚ˆã‚ŠæŠœç²‹)
 								---
-ƒŠƒXƒg4.21	exit()‚Ì’è‹`(exit.c‚æ‚è”²ˆ)			---
-ƒŠƒXƒg4.22	constructor, destructor ‘®«‚Ì—˜—p(constructor.c)
+ãƒªã‚¹ãƒˆ4.21	exit()ã®å®šç¾©(exit.cã‚ˆã‚ŠæŠœç²‹)			---
+ãƒªã‚¹ãƒˆ4.22	constructor, destructor å±æ€§ã®åˆ©ç”¨(constructor.c)
 								src/constructor/constructor.c
 --------------------------------------------------------------------------------
-ƒŠƒXƒg5.1	ƒ\[ƒXƒtƒ@ƒCƒ‹‚Ì—á(main.c)			src/linksamp/main.c
-ƒŠƒXƒg5.2	ƒ\[ƒXƒtƒ@ƒCƒ‹‚Ì—á(lib1.c)			src/linksamp/lib1.c
-ƒŠƒXƒg5.3	ƒ\[ƒXƒtƒ@ƒCƒ‹‚Ì—á(lib2.c)			src/linksamp/lib2.c
-ƒŠƒXƒg5.4	objdump ‚É‚æ‚é‰ğÍ(main.o)			src/linksamp/main.od
-ƒŠƒXƒg5.5	objdump ‚É‚æ‚é‰ğÍ(lib1.o)			src/linksamp/lib1.od
-ƒŠƒXƒg5.6	objdump ‚É‚æ‚é‰ğÍ(lib2.o)			src/linksamp/lib2.od
-ƒŠƒXƒg5.7	objdump ‚É‚æ‚é‰ğÍ(linksamp)			src/linksamp/linksamp.od
-ƒŠƒXƒg5.8	ŠÈ’P‚ÈƒŠƒ“ƒJƒXƒNƒŠƒvƒg‚Ì—á(sample.lds)		src/linksamp/sample.lds
-ƒŠƒXƒg5.9	objdump ‚É‚æ‚é‰ğÍ(otherscr)			src/linksamp/otherscr.od
+ãƒªã‚¹ãƒˆ5.1	ã‚½ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã®ä¾‹(main.c)			src/linksamp/main.c
+ãƒªã‚¹ãƒˆ5.2	ã‚½ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã®ä¾‹(lib1.c)			src/linksamp/lib1.c
+ãƒªã‚¹ãƒˆ5.3	ã‚½ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ã®ä¾‹(lib2.c)			src/linksamp/lib2.c
+ãƒªã‚¹ãƒˆ5.4	objdump ã«ã‚ˆã‚‹è§£æ(main.o)			src/linksamp/main.od
+ãƒªã‚¹ãƒˆ5.5	objdump ã«ã‚ˆã‚‹è§£æ(lib1.o)			src/linksamp/lib1.od
+ãƒªã‚¹ãƒˆ5.6	objdump ã«ã‚ˆã‚‹è§£æ(lib2.o)			src/linksamp/lib2.od
+ãƒªã‚¹ãƒˆ5.7	objdump ã«ã‚ˆã‚‹è§£æ(linksamp)			src/linksamp/linksamp.od
+ãƒªã‚¹ãƒˆ5.8	ç°¡å˜ãªãƒªãƒ³ã‚«ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®ä¾‹(sample.lds)		src/linksamp/sample.lds
+ãƒªã‚¹ãƒˆ5.9	objdump ã«ã‚ˆã‚‹è§£æ(otherscr)			src/linksamp/otherscr.od
 --------------------------------------------------------------------------------
-ƒŠƒXƒg6.1	ŠÈ’P‚ÈƒŠƒ“ƒJƒXƒNƒŠƒvƒg‚Ì—á(sample.lds)		src/linksamp/sample.lds
-ƒŠƒXƒg6.2	–½—ß‘‚«Š·‚¦‚Ì—á(overwrite.c)			src/linksamp/overwrite.c
-ƒŠƒXƒg6.3	ƒVƒ“ƒ{ƒ‹ì¬‚ÌƒTƒ“ƒvƒ‹ƒXƒNƒŠƒvƒg(addr.lds)	src/linksamp/addr.lds
-ƒŠƒXƒg6.4	ƒVƒ“ƒ{ƒ‹ì¬‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(addr.c)	src/linksamp/addr.c
-}6.6		addr ‚Ì‰ğÍŒ‹‰Ê(”²ˆ)				src/linksamp/addr.od
-}6.7		addr ‚ÌÀsŒ‹‰Ê					src/linksamp/addr.out
-ƒŠƒXƒg6.5	ƒVƒ“ƒ{ƒ‹Õ“Ë‚ÌƒTƒ“ƒvƒ‹ƒXƒNƒŠƒvƒg(conflict.lds)	src/linksamp/conflict.lds
-ƒŠƒXƒg6.6	ƒVƒ“ƒ{ƒ‹Õ“Ë‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(conflict.c)	src/linksamp/conflict.c
-}6.10		conflict ‚Ì‰ğÍŒ‹‰Ê(”²ˆ)			src/linksamp/conflict.od
-}6.11		conflict ‚ÌÀsŒ‹‰Ê				src/linksamp/conflict.out
-ƒŠƒXƒg6.7	’è‹`‰Â”\‚È‰Šú’l‚ ‚è‚Ì—Ìˆæ			---
-ƒŠƒXƒg6.8	’è‹`•s‰Â”\‚È‰Šú’l‚ ‚è‚Ì—Ìˆæ			---
-ƒŠƒXƒg6.9	•Ï”ì¬‚ÌƒTƒ“ƒvƒ‹ƒXƒNƒŠƒvƒg(valiable.lds)	src/linksamp/valiable.lds
-ƒŠƒXƒg6.10	•Ï”ì¬‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(valiable.c)	src/linksamp/valiable.c
-ƒŠƒXƒg6.11	FILL()‚Ì—˜—p•û–@				---
-ƒŠƒXƒg6.12	FILLEXP‚Ì—˜—p•û–@				---
-}6.13		valiable ‚Ì‰ğÍŒ‹‰Ê(”²ˆ)			src/linksamp/valiable.od
-}6.14		valiable ‚ÌÀsŒ‹‰Ê				src/linksamp/valiable.out
-ƒŠƒXƒg6.13	ƒZƒNƒVƒ‡ƒ“‚Ìì¬‘®				---
-ƒŠƒXƒg6.14	ƒZƒNƒVƒ‡ƒ“‚Ì‹Lq				---
-ƒŠƒXƒg6.15	LMAw’è‚ÌƒTƒ“ƒvƒ‹ƒXƒNƒŠƒvƒg(lma.lds)		src/linksamp/lma.lds
-}6.16		lma ‚Ì‰ğÍŒ‹‰Ê(”²ˆ)				src/linksamp/lma.od
-}6.17		nm lma ‚ÌŒ‹‰Ê					src/linksamp/lma.nm
+ãƒªã‚¹ãƒˆ6.1	ç°¡å˜ãªãƒªãƒ³ã‚«ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®ä¾‹(sample.lds)		src/linksamp/sample.lds
+ãƒªã‚¹ãƒˆ6.2	å‘½ä»¤æ›¸ãæ›ãˆã®ä¾‹(overwrite.c)			src/linksamp/overwrite.c
+ãƒªã‚¹ãƒˆ6.3	ã‚·ãƒ³ãƒœãƒ«ä½œæˆã®ã‚µãƒ³ãƒ—ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(addr.lds)	src/linksamp/addr.lds
+ãƒªã‚¹ãƒˆ6.4	ã‚·ãƒ³ãƒœãƒ«ä½œæˆã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (addr.c)	src/linksamp/addr.c
+å›³6.6		addr ã®è§£æçµæœ(æŠœç²‹)				src/linksamp/addr.od
+å›³6.7		addr ã®å®Ÿè¡Œçµæœ					src/linksamp/addr.out
+ãƒªã‚¹ãƒˆ6.5	ã‚·ãƒ³ãƒœãƒ«è¡çªã®ã‚µãƒ³ãƒ—ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(conflict.lds)	src/linksamp/conflict.lds
+ãƒªã‚¹ãƒˆ6.6	ã‚·ãƒ³ãƒœãƒ«è¡çªã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (conflict.c)	src/linksamp/conflict.c
+å›³6.10		conflict ã®è§£æçµæœ(æŠœç²‹)			src/linksamp/conflict.od
+å›³6.11		conflict ã®å®Ÿè¡Œçµæœ				src/linksamp/conflict.out
+ãƒªã‚¹ãƒˆ6.7	å®šç¾©å¯èƒ½ãªåˆæœŸå€¤ã‚ã‚Šã®é ˜åŸŸ			---
+ãƒªã‚¹ãƒˆ6.8	å®šç¾©ä¸å¯èƒ½ãªåˆæœŸå€¤ã‚ã‚Šã®é ˜åŸŸ			---
+ãƒªã‚¹ãƒˆ6.9	å¤‰æ•°ä½œæˆã®ã‚µãƒ³ãƒ—ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(valiable.lds)	src/linksamp/valiable.lds
+ãƒªã‚¹ãƒˆ6.10	å¤‰æ•°ä½œæˆã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (valiable.c)	src/linksamp/valiable.c
+ãƒªã‚¹ãƒˆ6.11	FILL()ã®åˆ©ç”¨æ–¹æ³•				---
+ãƒªã‚¹ãƒˆ6.12	FILLEXPã®åˆ©ç”¨æ–¹æ³•				---
+å›³6.13		valiable ã®è§£æçµæœ(æŠœç²‹)			src/linksamp/valiable.od
+å›³6.14		valiable ã®å®Ÿè¡Œçµæœ				src/linksamp/valiable.out
+ãƒªã‚¹ãƒˆ6.13	ã‚»ã‚¯ã‚·ãƒ§ãƒ³ã®ä½œæˆæ›¸å¼				---
+ãƒªã‚¹ãƒˆ6.14	ã‚»ã‚¯ã‚·ãƒ§ãƒ³ã®è¨˜è¿°				---
+ãƒªã‚¹ãƒˆ6.15	LMAæŒ‡å®šã®ã‚µãƒ³ãƒ—ãƒ«ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(lma.lds)		src/linksamp/lma.lds
+å›³6.16		lma ã®è§£æçµæœ(æŠœç²‹)				src/linksamp/lma.od
+å›³6.17		nm lma ã®çµæœ					src/linksamp/lma.nm
 --------------------------------------------------------------------------------
-ƒŠƒXƒg7.1	ƒŠƒ“ƒN‚Ì‡”Ô‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(ordermain.c, ...)
+ãƒªã‚¹ãƒˆ7.1	ãƒªãƒ³ã‚¯ã®é †ç•ªã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (ordermain.c, ...)
 								src/order/ordermain.c
 								src/order/order1.c
 								src/order/order2.c
-ƒŠƒXƒg7.2	d•¡ƒVƒ“ƒ{ƒ‹‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(dupmain.c, ...)
+ãƒªã‚¹ãƒˆ7.2	é‡è¤‡ã‚·ãƒ³ãƒœãƒ«ã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (dupmain.c, ...)
 								src/duplicate/dupmain.c
 								src/duplicate/duptest1.c
 								src/duplicate/duptest2.c
 								src/duplicate/dup1.c
 								src/duplicate/dup2.c
-ƒŠƒXƒg7.3	ƒoƒCƒiƒŠƒf[ƒ^‚ÌÄ‚«‚İ(binary.c)		src/binary/binary.c
-}7.21		nm binary ‚ÌŒ‹‰Ê				src/binary/binary.nm
-}7.22		objdump -h binary ‚ÌŒ‹‰Ê			src/binary/binary.od
-ƒŠƒXƒg7.4	.incbin ‚Ì—˜—p(incbin.s)			src/binary/incbin.s
-ƒŠƒXƒg7.5	usr/initramfs_data.S ’†‚ÌƒRƒƒ“ƒg		---
-ƒŠƒXƒg7.6	ƒŠƒ“ƒJƒXƒNƒŠƒvƒg(bindata.scr)			src/binary/bindata.scr
+ãƒªã‚¹ãƒˆ7.3	ãƒã‚¤ãƒŠãƒªãƒ‡ãƒ¼ã‚¿ã®ç„¼ãè¾¼ã¿(binary.c)		src/binary/binary.c
+å›³7.21		nm binary ã®çµæœ				src/binary/binary.nm
+å›³7.22		objdump -h binary ã®çµæœ			src/binary/binary.od
+ãƒªã‚¹ãƒˆ7.4	.incbin ã®åˆ©ç”¨(incbin.s)			src/binary/incbin.s
+ãƒªã‚¹ãƒˆ7.5	usr/initramfs_data.S ä¸­ã®ã‚³ãƒ¡ãƒ³ãƒˆ		---
+ãƒªã‚¹ãƒˆ7.6	ãƒªãƒ³ã‚«ã‚¹ã‚¯ãƒªãƒ—ãƒˆ(bindata.scr)			src/binary/bindata.scr
 --------------------------------------------------------------------------------
-ƒŠƒXƒg8.1	ELFŒ`®‚Ìƒ[ƒh•”•ª(imgact_elf.c)		---
-}8.1		man execl ‚æ‚è”²ˆ				---
-}8.2		readelf -S /bin/ls ‚ÌŒ‹‰Ê			src/loader/ls.shdr
-}8.3		readelf -S /usr/bin/gcc ‚ÌŒ‹‰Ê			src/loader/gcc.shdr
-ƒŠƒXƒg8.2	ƒŠƒ“ƒJƒXƒNƒŠƒvƒg‚ÌC³				src/loader/ldscript.diff
-}8.4		readelf -l /bin/ls ‚ÌŒ‹‰Ê			src/loader/ls.phdr
-ƒŠƒXƒg8.3	ƒtƒ‰ƒO•ÏX—p‚ÌƒvƒƒOƒ‰ƒ€(chflg.c)		src/loader/chflg.c
-ƒŠƒXƒg8.4	_start()‚Ìæ“ª•”•ª(crt1.c)			---
-ƒŠƒXƒg8.5	(stack_sample.c)				src/stack/stack_sample.c
-ƒŠƒXƒg8.6	(stack_sample.s)				src/stack/stack_sample.s
-ƒŠƒXƒg8.7	ŠÈˆÕƒ[ƒ_(loader.c)				src/loader/loader.c
-ƒŠƒXƒg8.8	ƒ[ƒh‘ÎÛ‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(sample.c)	src/loader/sample.c
-}8.7		ŠÈˆÕƒ[ƒ_‚ÌÀsŒ‹‰Ê				src/loader/loader.out
+ãƒªã‚¹ãƒˆ8.1	ELFå½¢å¼ã®ãƒ­ãƒ¼ãƒ‰éƒ¨åˆ†(imgact_elf.c)		---
+å›³8.1		man execl ã‚ˆã‚ŠæŠœç²‹				---
+å›³8.2		readelf -S /bin/ls ã®çµæœ			src/loader/ls.shdr
+å›³8.3		readelf -S /usr/bin/gcc ã®çµæœ			src/loader/gcc.shdr
+ãƒªã‚¹ãƒˆ8.2	ãƒªãƒ³ã‚«ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®ä¿®æ­£				src/loader/ldscript.diff
+å›³8.4		readelf -l /bin/ls ã®çµæœ			src/loader/ls.phdr
+ãƒªã‚¹ãƒˆ8.3	ãƒ•ãƒ©ã‚°å¤‰æ›´ç”¨ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ (chflg.c)		src/loader/chflg.c
+ãƒªã‚¹ãƒˆ8.4	_start()ã®å…ˆé ­éƒ¨åˆ†(crt1.c)			---
+ãƒªã‚¹ãƒˆ8.5	(stack_sample.c)				src/stack/stack_sample.c
+ãƒªã‚¹ãƒˆ8.6	(stack_sample.s)				src/stack/stack_sample.s
+ãƒªã‚¹ãƒˆ8.7	ç°¡æ˜“ãƒ­ãƒ¼ãƒ€(loader.c)				src/loader/loader.c
+ãƒªã‚¹ãƒˆ8.8	ãƒ­ãƒ¼ãƒ‰å¯¾è±¡ã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (sample.c)	src/loader/sample.c
+å›³8.7		ç°¡æ˜“ãƒ­ãƒ¼ãƒ€ã®å®Ÿè¡Œçµæœ				src/loader/loader.out
 --------------------------------------------------------------------------------
-ƒŠƒXƒg9.1	ƒRƒAƒ_ƒ“ƒvì¬—pƒvƒƒOƒ‰ƒ€(down.c)		src/core/down.c
-}9.3		ÀsŒ`®‚ÌƒZƒNƒVƒ‡ƒ“\¬			src/core/down.readelf
-}9.4		ƒRƒAƒ_ƒ“ƒv‚Ì‰ğÍ				src/core/core.readelf
-ƒŠƒXƒg9.2	elf_puthdr()					---
-ƒŠƒXƒg9.3	elf_putnote()					---
-ƒŠƒXƒg9.4	Elf_Note ‚Ì’è‹`(elf_common.h)			---
-ƒŠƒXƒg9.5	prstatus_t ‚Ì’è‹`(procfs.h)			---
-ƒŠƒXƒg9.6	struct reg ‚Ì’è‹`(reg.h)			---
-ƒŠƒXƒg9.7	struct fpreg ‚Ì’è‹`(reg.h)			---
-ƒŠƒXƒg9.8	prpsinfo_t ‚Ì’è‹`(procfs.h)			---
-}9.5		ƒRƒAƒ_ƒ“ƒv‚Ì‰ğÍ				src/core/nm.out
-}9.6		•Ï” count •t‹ß‚Ìƒ_ƒ“ƒv				---
-ƒŠƒXƒg9.9	ÀsÄŠJ—p‚ÌƒvƒƒOƒ‰ƒ€(continue.c)		src/continue/continue.c
-ƒŠƒXƒg9.10	ÀsÄŠJ‚ÌÀŒ±—pƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(calc.c)	src/continue/calc.c
-}9.7		calc.c ‚ÌÀsŒ‹‰Ê				src/continue/calc.comp
+ãƒªã‚¹ãƒˆ9.1	ã‚³ã‚¢ãƒ€ãƒ³ãƒ—ä½œæˆç”¨ãƒ—ãƒ­ã‚°ãƒ©ãƒ (down.c)		src/core/down.c
+å›³9.3		å®Ÿè¡Œå½¢å¼ã®ã‚»ã‚¯ã‚·ãƒ§ãƒ³æ§‹æˆ			src/core/down.readelf
+å›³9.4		ã‚³ã‚¢ãƒ€ãƒ³ãƒ—ã®è§£æ				src/core/core.readelf
+ãƒªã‚¹ãƒˆ9.2	elf_puthdr()					---
+ãƒªã‚¹ãƒˆ9.3	elf_putnote()					---
+ãƒªã‚¹ãƒˆ9.4	Elf_Note ã®å®šç¾©(elf_common.h)			---
+ãƒªã‚¹ãƒˆ9.5	prstatus_t ã®å®šç¾©(procfs.h)			---
+ãƒªã‚¹ãƒˆ9.6	struct reg ã®å®šç¾©(reg.h)			---
+ãƒªã‚¹ãƒˆ9.7	struct fpreg ã®å®šç¾©(reg.h)			---
+ãƒªã‚¹ãƒˆ9.8	prpsinfo_t ã®å®šç¾©(procfs.h)			---
+å›³9.5		ã‚³ã‚¢ãƒ€ãƒ³ãƒ—ã®è§£æ				src/core/nm.out
+å›³9.6		å¤‰æ•° count ä»˜è¿‘ã®ãƒ€ãƒ³ãƒ—				---
+ãƒªã‚¹ãƒˆ9.9	å®Ÿè¡Œå†é–‹ç”¨ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ (continue.c)		src/continue/continue.c
+ãƒªã‚¹ãƒˆ9.10	å®Ÿè¡Œå†é–‹ã®å®Ÿé¨“ç”¨ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (calc.c)	src/continue/calc.c
+å›³9.7		calc.c ã®å®Ÿè¡Œçµæœ				src/continue/calc.comp
 								src/continue/calc.out
-}9.10		Às‚ÌÄŠJ					src/continue/continue.out
-ƒŠƒXƒg9.A	_setjmp()/_longjmp() ‚Ì—˜—p—á(setjmp.c)		src/setjmp/setjmp.c
-}9.A		setjmp.c ‚ÌÀsŒ‹‰Ê				src/setjmp/setjmp.out
-ƒŠƒXƒg9.B	_setjmp()/_longjmp() ‚Ìƒ\[ƒX(_setjmp.S)	src/setjmp/_setjmp.S
-ƒŠƒXƒg9.C	_setjmp() ŒÄ‚Ño‚µŒã‚ÉƒXƒ^ƒbƒN‚ª”j‰ó‚³‚ê‚é—á(setjmp2.c)
+å›³9.10		å®Ÿè¡Œã®å†é–‹					src/continue/continue.out
+ãƒªã‚¹ãƒˆ9.A	_setjmp()/_longjmp() ã®åˆ©ç”¨ä¾‹(setjmp.c)		src/setjmp/setjmp.c
+å›³9.A		setjmp.c ã®å®Ÿè¡Œçµæœ				src/setjmp/setjmp.out
+ãƒªã‚¹ãƒˆ9.B	_setjmp()/_longjmp() ã®ã‚½ãƒ¼ã‚¹(_setjmp.S)	src/setjmp/_setjmp.S
+ãƒªã‚¹ãƒˆ9.C	_setjmp() å‘¼ã³å‡ºã—å¾Œã«ã‚¹ã‚¿ãƒƒã‚¯ãŒç ´å£Šã•ã‚Œã‚‹ä¾‹(setjmp2.c)
 								src/setjmp/setjmp2.c
-}9.B		setjmp2.c ‚ÌÀsŒ‹‰Ê				src/setjmp/setjmp2.out
+å›³9.B		setjmp2.c ã®å®Ÿè¡Œçµæœ				src/setjmp/setjmp2.out
 --------------------------------------------------------------------------------
-ƒŠƒXƒg10.1	‹tƒAƒZƒ“ƒuƒ‹—p‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(rasm.c)	src/rasm/rasm.c
-ƒŠƒXƒg10.2	‹tƒAƒZƒ“ƒuƒ‹—p‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(rasm2.c)	src/rasm/rasm2.c
-ƒŠƒXƒg10.3	rasm.o ‚Ì‹tƒAƒZƒ“ƒuƒ‹Œ‹‰Ê			src/rasm/rasm.o.ra
-ƒŠƒXƒg10.4	rasm ‚Ì‹tƒAƒZƒ“ƒuƒ‹Œ‹‰Ê				src/rasm/rasm.ra
-ƒŠƒXƒg10.5	rasm.o ‚ÌƒZƒNƒVƒ‡ƒ“CÄ”z’uƒe[ƒuƒ‹CƒVƒ“ƒ{ƒ‹ƒe[ƒuƒ‹
+ãƒªã‚¹ãƒˆ10.1	é€†ã‚¢ã‚»ãƒ³ãƒ–ãƒ«ç”¨ã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (rasm.c)	src/rasm/rasm.c
+ãƒªã‚¹ãƒˆ10.2	é€†ã‚¢ã‚»ãƒ³ãƒ–ãƒ«ç”¨ã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (rasm2.c)	src/rasm/rasm2.c
+ãƒªã‚¹ãƒˆ10.3	rasm.o ã®é€†ã‚¢ã‚»ãƒ³ãƒ–ãƒ«çµæœ			src/rasm/rasm.o.ra
+ãƒªã‚¹ãƒˆ10.4	rasm ã®é€†ã‚¢ã‚»ãƒ³ãƒ–ãƒ«çµæœ				src/rasm/rasm.ra
+ãƒªã‚¹ãƒˆ10.5	rasm.o ã®ã‚»ã‚¯ã‚·ãƒ§ãƒ³ï¼Œå†é…ç½®ãƒ†ãƒ¼ãƒ–ãƒ«ï¼Œã‚·ãƒ³ãƒœãƒ«ãƒ†ãƒ¼ãƒ–ãƒ«
 								src/rasm/rasm.o.re
-ƒŠƒXƒg10.6	rasm2.o ‚ÌƒVƒ“ƒ{ƒ‹ƒe[ƒuƒ‹			src/rasm/rasm2.o.re
-ƒŠƒXƒg10.7	rasm ‚ÌƒVƒ“ƒ{ƒ‹ƒe[ƒuƒ‹				src/rasm/rasm.re
-ƒŠƒXƒg10.8	i386ˆË‘¶‚Ì’è‹`(/usr/include/machine/elf.h)	---
-ƒŠƒXƒg10.9	weak ƒVƒ“ƒ{ƒ‹‚Ì’è‹`‚Ì—á(weak.c)			src/weak/weak.c
-ƒŠƒXƒg10.10	ƒOƒ[ƒoƒ‹ƒVƒ“ƒ{ƒ‹‚Ì’è‹`‚Ì—á(global.c)		src/weak/global.c
-ƒŠƒXƒg10.11	weak ƒVƒ“ƒ{ƒ‹‚Ì—˜—p‚Ì—á(main.c)			src/weak/main.c
-ƒŠƒXƒg10.12	global.o ‚ğƒŠƒ“ƒN‚µ‚½ê‡‚ÌÀsŒ‹‰Ê		src/weak/global.exec
-ƒŠƒXƒg10.13	global.o ‚ğƒŠƒ“ƒN‚µ‚È‚©‚Á‚½ê‡‚ÌÀsŒ‹‰Ê	src/weak/noglobal.exec
-ƒŠƒXƒg10.14	ÀsŒ`® global ‚ÌƒVƒ“ƒ{ƒ‹ƒe[ƒuƒ‹(”²ˆ)	src/weak/global.nm
-ƒŠƒXƒg10.15	ÀsŒ`® noglobal ‚ÌƒVƒ“ƒ{ƒ‹ƒe[ƒuƒ‹(”²ˆ)	src/weak/noglobal.nm
-ƒŠƒXƒg10.16	ƒ‰ƒCƒuƒ‰ƒŠƒA[ƒJƒCƒu‚ğ—˜—p‚µ‚½ê‡‚ÌÀsŒ‹‰Ê	src/weak/global_a.exec
-ƒŠƒXƒg10.17	man syscall					---
-ƒŠƒXƒg10.18	__syscall() ‚ÌŒÄ‚Ño‚µ				---
-ƒŠƒXƒg10.19	syscall()‚Ì’è‹`(”²ˆ)				---
-ƒŠƒXƒg10.20	ƒVƒXƒeƒ€ƒR[ƒ‹—pƒ‰ƒCƒuƒ‰ƒŠ(syscall.s)		src/linker/syscall.s
-ƒŠƒXƒg10.21	•¶š—ñ•\¦—pƒ‰ƒCƒuƒ‰ƒŠ(service.c)		src/linker/service.c
-ƒŠƒXƒg10.22	ƒXƒ^[ƒgƒAƒbƒv(crt.c)				src/linker/crt.c
-ƒŠƒXƒg10.23	ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(main.c)			src/linker/main.c
-ƒŠƒXƒg10.24	ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(sample.c)			src/linker/sample.c
-ƒŠƒXƒg10.25	ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(sample2.c)			src/linker/sample2.c
-ƒŠƒXƒg10.26	ƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚ÌÀsŒ‹‰Ê			src/linker/sample.exec
-ƒŠƒXƒg10.27	ƒVƒ“ƒ{ƒ‹‰ğŒˆ—pƒ‰ƒCƒuƒ‰ƒŠ(linklib.h)		src/linker/linklib.h
-ƒŠƒXƒg10.28	ƒVƒ“ƒ{ƒ‹‰ğŒˆ—pƒ‰ƒCƒuƒ‰ƒŠ(linklib.c)		src/linker/linklib.c
-ƒŠƒXƒg10.29	ƒ_ƒCƒiƒ~ƒbƒNƒŠƒ“ƒJ(dynlink.c)			src/linker/dynlink.c
-ƒŠƒXƒg10.30	ƒ_ƒCƒiƒ~ƒbƒNƒŠƒ“ƒJ‚ÌÀsŒ‹‰Ê			src/linker/dynlink.exec
-ƒŠƒXƒg10.31	ÀsŒ`®—p‚ÌƒŠƒ“ƒJ(linker.c)			src/linker/linker.c
-ƒŠƒXƒg10.32	ÀsŒ`®—pƒŠƒ“ƒJ‚ÌÀsŒ‹‰Ê			src/linker/linker.exec
-ƒŠƒXƒg10.33	ƒŠƒ“ƒJ‚Åì¬‚µ‚½ÀsŒ`®‚ÌÀsŒ‹‰Ê		src/linker/sample2.exec
-ƒŠƒXƒg10.34	PowerPC—p‚ÌƒVƒ“ƒ{ƒ‹‰ğŒˆ				---
+ãƒªã‚¹ãƒˆ10.6	rasm2.o ã®ã‚·ãƒ³ãƒœãƒ«ãƒ†ãƒ¼ãƒ–ãƒ«			src/rasm/rasm2.o.re
+ãƒªã‚¹ãƒˆ10.7	rasm ã®ã‚·ãƒ³ãƒœãƒ«ãƒ†ãƒ¼ãƒ–ãƒ«				src/rasm/rasm.re
+ãƒªã‚¹ãƒˆ10.8	i386ä¾å­˜ã®å®šç¾©(/usr/include/machine/elf.h)	---
+ãƒªã‚¹ãƒˆ10.9	weak ã‚·ãƒ³ãƒœãƒ«ã®å®šç¾©ã®ä¾‹(weak.c)			src/weak/weak.c
+ãƒªã‚¹ãƒˆ10.10	ã‚°ãƒ­ãƒ¼ãƒãƒ«ã‚·ãƒ³ãƒœãƒ«ã®å®šç¾©ã®ä¾‹(global.c)		src/weak/global.c
+ãƒªã‚¹ãƒˆ10.11	weak ã‚·ãƒ³ãƒœãƒ«ã®åˆ©ç”¨ã®ä¾‹(main.c)			src/weak/main.c
+ãƒªã‚¹ãƒˆ10.12	global.o ã‚’ãƒªãƒ³ã‚¯ã—ãŸå ´åˆã®å®Ÿè¡Œçµæœ		src/weak/global.exec
+ãƒªã‚¹ãƒˆ10.13	global.o ã‚’ãƒªãƒ³ã‚¯ã—ãªã‹ã£ãŸå ´åˆã®å®Ÿè¡Œçµæœ	src/weak/noglobal.exec
+ãƒªã‚¹ãƒˆ10.14	å®Ÿè¡Œå½¢å¼ global ã®ã‚·ãƒ³ãƒœãƒ«ãƒ†ãƒ¼ãƒ–ãƒ«(æŠœç²‹)	src/weak/global.nm
+ãƒªã‚¹ãƒˆ10.15	å®Ÿè¡Œå½¢å¼ noglobal ã®ã‚·ãƒ³ãƒœãƒ«ãƒ†ãƒ¼ãƒ–ãƒ«(æŠœç²‹)	src/weak/noglobal.nm
+ãƒªã‚¹ãƒˆ10.16	ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã‚’åˆ©ç”¨ã—ãŸå ´åˆã®å®Ÿè¡Œçµæœ	src/weak/global_a.exec
+ãƒªã‚¹ãƒˆ10.17	man syscall					---
+ãƒªã‚¹ãƒˆ10.18	__syscall() ã®å‘¼ã³å‡ºã—				---
+ãƒªã‚¹ãƒˆ10.19	syscall()ã®å®šç¾©(æŠœç²‹)				---
+ãƒªã‚¹ãƒˆ10.20	ã‚·ã‚¹ãƒ†ãƒ ã‚³ãƒ¼ãƒ«ç”¨ãƒ©ã‚¤ãƒ–ãƒ©ãƒª(syscall.s)		src/linker/syscall.s
+ãƒªã‚¹ãƒˆ10.21	æ–‡å­—åˆ—è¡¨ç¤ºç”¨ãƒ©ã‚¤ãƒ–ãƒ©ãƒª(service.c)		src/linker/service.c
+ãƒªã‚¹ãƒˆ10.22	ã‚¹ã‚¿ãƒ¼ãƒˆã‚¢ãƒƒãƒ—(crt.c)				src/linker/crt.c
+ãƒªã‚¹ãƒˆ10.23	ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (main.c)			src/linker/main.c
+ãƒªã‚¹ãƒˆ10.24	ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (sample.c)			src/linker/sample.c
+ãƒªã‚¹ãƒˆ10.25	ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (sample2.c)			src/linker/sample2.c
+ãƒªã‚¹ãƒˆ10.26	ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®å®Ÿè¡Œçµæœ			src/linker/sample.exec
+ãƒªã‚¹ãƒˆ10.27	ã‚·ãƒ³ãƒœãƒ«è§£æ±ºç”¨ãƒ©ã‚¤ãƒ–ãƒ©ãƒª(linklib.h)		src/linker/linklib.h
+ãƒªã‚¹ãƒˆ10.28	ã‚·ãƒ³ãƒœãƒ«è§£æ±ºç”¨ãƒ©ã‚¤ãƒ–ãƒ©ãƒª(linklib.c)		src/linker/linklib.c
+ãƒªã‚¹ãƒˆ10.29	ãƒ€ã‚¤ãƒŠãƒŸãƒƒã‚¯ãƒªãƒ³ã‚«(dynlink.c)			src/linker/dynlink.c
+ãƒªã‚¹ãƒˆ10.30	ãƒ€ã‚¤ãƒŠãƒŸãƒƒã‚¯ãƒªãƒ³ã‚«ã®å®Ÿè¡Œçµæœ			src/linker/dynlink.exec
+ãƒªã‚¹ãƒˆ10.31	å®Ÿè¡Œå½¢å¼ç”¨ã®ãƒªãƒ³ã‚«(linker.c)			src/linker/linker.c
+ãƒªã‚¹ãƒˆ10.32	å®Ÿè¡Œå½¢å¼ç”¨ãƒªãƒ³ã‚«ã®å®Ÿè¡Œçµæœ			src/linker/linker.exec
+ãƒªã‚¹ãƒˆ10.33	ãƒªãƒ³ã‚«ã§ä½œæˆã—ãŸå®Ÿè¡Œå½¢å¼ã®å®Ÿè¡Œçµæœ		src/linker/sample2.exec
+ãƒªã‚¹ãƒˆ10.34	PowerPCç”¨ã®ã‚·ãƒ³ãƒœãƒ«è§£æ±º				---
 --------------------------------------------------------------------------------
-ƒŠƒXƒg11.1	ƒ‰ƒCƒuƒ‰ƒŠ‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(sample.c)	src/shared/sample.c
-ƒŠƒXƒg11.2	ƒ‰ƒCƒuƒ‰ƒŠ—˜—p‚ÌƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€(main.c)	src/shared/main.c
-}11.7		sample_shared ‚ÌÀsŒ‹‰Ê			src/shared/sample_shared.exec
-}11.11		sample_static ‚ÌÀsŒ‹‰Ê			src/shared/sample_static.exec
-}11.13		readelf -a sample_pic.o ‚Ìo—ÍŒ‹‰Ê		src/shared/sample_pic.o.re
-ƒŠƒXƒg11.3	i386‚ÌÄ”z’uí•Ê(/usr/include/machine/elf.h ‚æ‚è”²ˆ)
+ãƒªã‚¹ãƒˆ11.1	ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (sample.c)	src/shared/sample.c
+ãƒªã‚¹ãƒˆ11.2	ãƒ©ã‚¤ãƒ–ãƒ©ãƒªåˆ©ç”¨ã®ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ (main.c)	src/shared/main.c
+å›³11.7		sample_shared ã®å®Ÿè¡Œçµæœ			src/shared/sample_shared.exec
+å›³11.11		sample_static ã®å®Ÿè¡Œçµæœ			src/shared/sample_static.exec
+å›³11.13		readelf -a sample_pic.o ã®å‡ºåŠ›çµæœ		src/shared/sample_pic.o.re
+ãƒªã‚¹ãƒˆ11.3	i386ã®å†é…ç½®ç¨®åˆ¥(/usr/include/machine/elf.h ã‚ˆã‚ŠæŠœç²‹)
 								---
-}11.14		objdump -d sample_pic.o ‚Ìo—ÍŒ‹‰Ê		src/shared/sample_pic.o.ra
-}11.15		readelf -a libsample.so.1 ‚Ìo—ÍŒ‹‰Ê		src/shared/libsample.so.1.re
-ƒŠƒXƒg11.4	Elf32_Dyn ‚Ì’è‹`(elf32.h ‚æ‚è”²ˆ)		---
-ƒŠƒXƒg11.5	d_tag ‚ª‚Â’l(elf_common.h ‚æ‚è”²ˆ)		---
-}11.16		libsample.so.1 ‚Ì .got ƒZƒNƒVƒ‡ƒ“‚Ìƒ_ƒ“ƒvŒ‹‰Ê	src/shared/libsample.so.1.got
-}11.17		objdump -d libsample.so.1 ‚Ìo—ÍŒ‹‰Ê		src/shared/libsample.so.1.ra
-}11.18		readelf -a sample_shared ‚Ìo—ÍŒ‹‰Ê		src/shared/sample_shared.re
-}11.19		objdump -d sample_shared ‚Ìo—ÍŒ‹‰Ê		src/shared/sample_shared.ra
-}11.20		sample_shared ‚Ì .got ƒZƒNƒVƒ‡ƒ“‚Ìƒ_ƒ“ƒvŒ‹‰Ê	src/shared/sample_shared.got
-ƒŠƒXƒg11.6	.rtld_start ‚Ì’è‹`(i386/rtld_start.S)		---
-ƒŠƒXƒg11.7	_rtld()‚Ì’è‹`(rtld.c)				---
-ƒŠƒXƒg11.8	init_rtld()‚Ì’è‹`(rtld.c)			---
-ƒŠƒXƒg11.9	digest_phdr()‚Ì’è‹`(rtld.c)			---
-ƒŠƒXƒg11.10	digest_dynamic()‚Ì’è‹`(rtld.c)			---
-ƒŠƒXƒg11.11	relocate_objects()‚Ì’è‹`(rtld.c)		---
-ƒŠƒXƒg11.12	init_pltgot()‚Ì’è‹`(i386/reloc.c)		---
-ƒŠƒXƒg11.13	_rtld_bind()‚Ì’è‹`(rtld.c)			---
-ƒŠƒXƒg11.14	dlopen()/dlsym()/dlclose()‚Ìg—p—á(dlopen.c)	src/shared/dlopen.c
-}11.21		dlopen.c ‚ÌÀsŒ‹‰Ê				src/shared/dlopen.exec
-ƒŠƒXƒg11.15	dlopen()‚Ì’è‹`(rtld.c)				---
+å›³11.14		objdump -d sample_pic.o ã®å‡ºåŠ›çµæœ		src/shared/sample_pic.o.ra
+å›³11.15		readelf -a libsample.so.1 ã®å‡ºåŠ›çµæœ		src/shared/libsample.so.1.re
+ãƒªã‚¹ãƒˆ11.4	Elf32_Dyn ã®å®šç¾©(elf32.h ã‚ˆã‚ŠæŠœç²‹)		---
+ãƒªã‚¹ãƒˆ11.5	d_tag ãŒæŒã¤å€¤(elf_common.h ã‚ˆã‚ŠæŠœç²‹)		---
+å›³11.16		libsample.so.1 ã® .got ã‚»ã‚¯ã‚·ãƒ§ãƒ³ã®ãƒ€ãƒ³ãƒ—çµæœ	src/shared/libsample.so.1.got
+å›³11.17		objdump -d libsample.so.1 ã®å‡ºåŠ›çµæœ		src/shared/libsample.so.1.ra
+å›³11.18		readelf -a sample_shared ã®å‡ºåŠ›çµæœ		src/shared/sample_shared.re
+å›³11.19		objdump -d sample_shared ã®å‡ºåŠ›çµæœ		src/shared/sample_shared.ra
+å›³11.20		sample_shared ã® .got ã‚»ã‚¯ã‚·ãƒ§ãƒ³ã®ãƒ€ãƒ³ãƒ—çµæœ	src/shared/sample_shared.got
+ãƒªã‚¹ãƒˆ11.6	.rtld_start ã®å®šç¾©(i386/rtld_start.S)		---
+ãƒªã‚¹ãƒˆ11.7	_rtld()ã®å®šç¾©(rtld.c)				---
+ãƒªã‚¹ãƒˆ11.8	init_rtld()ã®å®šç¾©(rtld.c)			---
+ãƒªã‚¹ãƒˆ11.9	digest_phdr()ã®å®šç¾©(rtld.c)			---
+ãƒªã‚¹ãƒˆ11.10	digest_dynamic()ã®å®šç¾©(rtld.c)			---
+ãƒªã‚¹ãƒˆ11.11	relocate_objects()ã®å®šç¾©(rtld.c)		---
+ãƒªã‚¹ãƒˆ11.12	init_pltgot()ã®å®šç¾©(i386/reloc.c)		---
+ãƒªã‚¹ãƒˆ11.13	_rtld_bind()ã®å®šç¾©(rtld.c)			---
+ãƒªã‚¹ãƒˆ11.14	dlopen()/dlsym()/dlclose()ã®ä½¿ç”¨ä¾‹(dlopen.c)	src/shared/dlopen.c
+å›³11.21		dlopen.c ã®å®Ÿè¡Œçµæœ				src/shared/dlopen.exec
+ãƒªã‚¹ãƒˆ11.15	dlopen()ã®å®šç¾©(rtld.c)				---
 --------------------------------------------------------------------------------
 
-ˆÈã
+ä»¥ä¸Š
