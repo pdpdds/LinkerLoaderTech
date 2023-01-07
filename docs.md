@@ -102,39 +102,39 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 ---		checksym.c					src/checksym/checksym.c
 --------------------------------------------------------------------------------
 리스트 4.1	配列とポインタ(pointer.c)			src/pointer/pointer.c
-図4.2		nm pointer の結果				src/pointer/pointer.nm
-図4.3		objdump -h pointer の結果			src/pointer/pointer.od
+그림 4.2		nm pointer の結果				src/pointer/pointer.nm
+그림 4.3		objdump -h pointer の結果			src/pointer/pointer.od
 리스트 .2	const 定義した変数に値を代入する(const.c)	src/const/const.c
 리스트 4.3	const 定義した変数に値を代入する(const_sub.c)	src/const/const_sub.c
-図4.8		nm const の結果					src/const/const.nm
-図4.9		objdump -h const の結果				src/const/const.od
+그림 4.8		nm const の結果					src/const/const.nm
+그림 4.9		objdump -h const の結果				src/const/const.od
 리스트 4.4	リンカスクリプトの修正				src/const/elf_i386.diff
-図4.12		nm noconst の結果				src/const/noconst.nm
-図4.13		objdump -h noconst の結果			src/const/noconst.od
+그림 4.12		nm noconst の結果				src/const/noconst.nm
+그림 4.13		objdump -h noconst の結果			src/const/noconst.od
 리스트 4.5	シンボルタイプについて(info nm より抜粋)	---
 리스트 4.6	変数 b の参照(const_b.c)			src/const/const_b.c
 리스트 4.7	変数 num の参照(layer.c)			src/layer/layer.c
 리스트 4.8	変数 num の定義(layer_sub1.c)			src/layer/layer_sub1.c
 리스트 4.9	変数 num の参照(layer_sub2.c)			src/layer/layer_sub2.c
-図4.27		nm liblayer.a の結果				src/layer/liblayer.a.nm
-図4.31		nm liblayer_local.a の結果			src/layer/liblayer_local.a.nm
-図4.35		nm layer_lib.o の結果				src/layer/layer_lib.o.nm
-図4.38		nm layer_lib_local.o の結果			src/layer/layer_lib_local.o.nm
-リスト4.10	変数 num を操作しない(layer2.c)			src/layer/layer2.c
-図4.41		シンボルが重複する場合				src/layer/layer_lib2.o.comp
+그림 4.27		nm liblayer.a の結果				src/layer/liblayer.a.nm
+그림 4.31		nm liblayer_local.a の結果			src/layer/liblayer_local.a.nm
+그림 4.35		nm layer_lib.o の結果				src/layer/layer_lib.o.nm
+그림 4.38		nm layer_lib_local.o の結果			src/layer/layer_lib_local.o.nm
+리스트 4.10	変数 num を操作しない(layer2.c)			src/layer/layer2.c
+그림 4.41		シンボルが重複する場合				src/layer/layer_lib2.o.comp
 리스트 4.11	NetBSD/hpcsh 用リンカスクリプト(ehl-elf.x より抜粋)
 								---
 리스트 4.12	PROVIDE()の指定(elf_i386.x より抜粋)		---
 리스트 4.13	シンボルのアドレスの表示(edata.c)		src/edata/edata.c
-図4.46		objdump -h edata の結果				src/edata/edata.od
+그림 4.46		objdump -h edata の結果				src/edata/edata.od
 리스트 4.14	初期化を任意に行なう(initialize.c)		src/initialize/initialize.c
-図4.47		initialize の実行結果				src/initialize/initialize.comp
+그림 4.47		initialize の実行結果				src/initialize/initialize.comp
 								src/initialize/initialize.exec
 리스트 4.15	do_ctors()の定義(crtbegin.cより抜粋)		---
 리스트 4.16	ctor_end[]の定義(crtend.c より抜粋)		---
 리스트 4.17	.ctors セクションの定義(elf_i386.xより抜粋)	---
 리스트 4.18	関数の自動呼び出し(ctors.c)			src/ctors/ctors.c
-図4.48		ctors のアドレス配置				src/ctors/ctors.comp
+그림 4.48		ctors のアドレス配置				src/ctors/ctors.comp
 								src/ctors/ctors.nm
 								src/ctors/ctors.od
 리스트 4.19	do_dtors()の定義(crtbegin.cより抜粋)		---
@@ -158,25 +158,25 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 리스트 6.2	命令書き換えの例(overwrite.c)			src/linksamp/overwrite.c
 리스트 6.3	シンボル作成のサンプルスクリプト(addr.lds)	src/linksamp/addr.lds
 리스트 6.4	シンボル作成のサンプルプログラム(addr.c)	src/linksamp/addr.c
-図6.6		addr の解析結果(抜粋)				src/linksamp/addr.od
-図6.7		addr の実行結果					src/linksamp/addr.out
-리스트 .5	シンボル衝突のサンプルスクリプト(conflict.lds)	src/linksamp/conflict.lds
-リスト6.6	シンボル衝突のサンプルプログラム(conflict.c)	src/linksamp/conflict.c
-図6.10		conflict の解析結果(抜粋)			src/linksamp/conflict.od
-図6.11		conflict の実行結果				src/linksamp/conflict.out
+그림 6.6		addr の解析結果(抜粋)				src/linksamp/addr.od
+그림 6.7		addr の実行結果					src/linksamp/addr.out
+리스트 6.5	シンボル衝突のサンプルスクリプト(conflict.lds)	src/linksamp/conflict.lds
+리스트 6.6	シンボル衝突のサンプルプログラム(conflict.c)	src/linksamp/conflict.c
+그림 6.10		conflict の解析結果(抜粋)			src/linksamp/conflict.od
+그림 6.11		conflict の実行結果				src/linksamp/conflict.out
 리스트 .7	定義可能な初期値ありの領域			---
 리스트 6.8	定義不可能な初期値ありの領域			---
 리스트 6.9	変数作成のサンプルスクリプト(valiable.lds)	src/linksamp/valiable.lds
 리스트 6.10	変数作成のサンプルプログラム(valiable.c)	src/linksamp/valiable.c
 리스트 6.11	FILL()の利用方法				---
 리스트 6.12	FILLEXPの利用方法				---
-図6.13		valiable の解析結果(抜粋)			src/linksamp/valiable.od
-図6.14		valiable の実行結果				src/linksamp/valiable.out
+그림 6.13		valiable の解析結果(抜粋)			src/linksamp/valiable.od
+그림 6.14		valiable の実行結果				src/linksamp/valiable.out
 리스트 6.13	セクションの作成書式				---
 리스트 6.14	セクションの記述				---
 리스트 6.15	LMA指定のサンプルスクリプト(lma.lds)		src/linksamp/lma.lds
-図6.16		lma の解析結果(抜粋)				src/linksamp/lma.od
-図6.17		nm lma の結果					src/linksamp/lma.nm
+그림 6.16		lma の解析結果(抜粋)				src/linksamp/lma.od
+그림 6.17		nm lma の結果					src/linksamp/lma.nm
 --------------------------------------------------------------------------------
 리스트 7.1	リンクの順番のサンプルプログラム(ordermain.c, ...)
 								src/order/ordermain.c
@@ -189,29 +189,29 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 								src/duplicate/dup1.c
 								src/duplicate/dup2.c
 리스트 7.3	バイナリデータの焼き込み(binary.c)		src/binary/binary.c
-図7.21		nm binary の結果				src/binary/binary.nm
-図7.22		objdump -h binary の結果			src/binary/binary.od
+그림 7.21		nm binary の結果				src/binary/binary.nm
+그림 7.22		objdump -h binary の結果			src/binary/binary.od
 리스트 7.4	.incbin の利用(incbin.s)			src/binary/incbin.s
 리스트 7.5	usr/initramfs_data.S 中のコメント		---
 리스트 7.6	リンカスクリプト(bindata.scr)			src/binary/bindata.scr
 --------------------------------------------------------------------------------
 리스트 8.1	ELF形式のロード部分(imgact_elf.c)		---
-図8.1		man execl より抜粋				---
-図8.2		readelf -S /bin/ls の結果			src/loader/ls.shdr
-図8.3		readelf -S /usr/bin/gcc の結果			src/loader/gcc.shdr
+그림 8.1		man execl より抜粋				---
+그림 8.2		readelf -S /bin/ls の結果			src/loader/ls.shdr
+그림 8.3		readelf -S /usr/bin/gcc の結果			src/loader/gcc.shdr
 리스트 8.2	リンカスクリプトの修正				src/loader/ldscript.diff
-図8.4		readelf -l /bin/ls の結果			src/loader/ls.phdr
+그림 8.4		readelf -l /bin/ls の結果			src/loader/ls.phdr
 리스트 8.3	フラグ変更用のプログラム(chflg.c)		src/loader/chflg.c
 리스트 8.4	_start()の先頭部分(crt1.c)			---
 리스트 8.5	(stack_sample.c)				src/stack/stack_sample.c
 리스트 8.6	(stack_sample.s)				src/stack/stack_sample.s
 리스트 8.7	簡易ローダ(loader.c)				src/loader/loader.c
 리스트 8.8	ロード対象のサンプルプログラム(sample.c)	src/loader/sample.c
-図8.7		簡易ローダの実行結果				src/loader/loader.out
+그림 8.7		簡易ローダの実行結果				src/loader/loader.out
 --------------------------------------------------------------------------------
 리스트 9.1	コアダンプ作成用プログラム(down.c)		src/core/down.c
-図9.3		実行形式のセクション構成			src/core/down.readelf
-図9.4		コアダンプの解析				src/core/core.readelf
+그림 9.3		実行形式のセクション構成			src/core/down.readelf
+그림 9.4		コアダンプの解析				src/core/core.readelf
 리스트 9.2	elf_puthdr()					---
 리스트 9.3	elf_putnote()					---
 리스트 9.4	Elf_Note の定義(elf_common.h)			---
@@ -219,19 +219,19 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 리스트 9.6	struct reg の定義(reg.h)			---
 리스트 9.7	struct fpreg の定義(reg.h)			---
 리스트 9.8	prpsinfo_t の定義(procfs.h)			---
-図9.5		コアダンプの解析				src/core/nm.out
-図9.6		変数 count 付近のダンプ				---
+그림 9.5		コアダンプの解析				src/core/nm.out
+그림 9.6		変数 count 付近のダンプ				---
 리스트 9.9	実行再開用のプログラム(continue.c)		src/continue/continue.c
 리스트 9.10	実行再開の実験用サンプルプログラム(calc.c)	src/continue/calc.c
-図9.7		calc.c の実行結果				src/continue/calc.comp
+그림 9.7		calc.c の実行結果				src/continue/calc.comp
 								src/continue/calc.out
-図9.10		実行の再開					src/continue/continue.out
+그림 9.10		実行の再開					src/continue/continue.out
 리스트 9.A	_setjmp()/_longjmp() の利用例(setjmp.c)		src/setjmp/setjmp.c
-図9.A		setjmp.c の実行結果				src/setjmp/setjmp.out
+그림 9.A		setjmp.c の実行結果				src/setjmp/setjmp.out
 리스트 9.B	_setjmp()/_longjmp() のソース(_setjmp.S)	src/setjmp/_setjmp.S
 리스트 9.C	_setjmp() 呼び出し後にスタックが破壊される例(setjmp2.c)
 								src/setjmp/setjmp2.c
-図9.B		setjmp2.c の実行結果				src/setjmp/setjmp2.out
+그림 9.B		setjmp2.c の実行結果				src/setjmp/setjmp2.out
 --------------------------------------------------------------------------------
 리스트 10.1	逆アセンブル用のサンプルプログラム(rasm.c)	src/rasm/rasm.c
 리스트 10.2	逆アセンブル用のサンプルプログラム(rasm2.c)	src/rasm/rasm2.c
@@ -251,9 +251,9 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 리스트 10.15	実行形式 noglobal のシンボルテーブル(抜粋)	src/weak/noglobal.nm
 리스트 10.16	ライブラリアーカイブを利用した場合の実行結果	src/weak/global_a.exec
 리스트 10.17	man syscall					---
-리스트 10.18	__syscall() の呼び出し				---
-리스트 10.19	syscall()の定義(抜粋)				---
-리스트 10.20	システムコール用ライブラリ(syscall.s)		src/linker/syscall.s
+리스트 10.18	__syscall() 의 호출				---
+리스트 10.19	syscall()의 정의(발췌)				---
+리스트 10.20	(syscall.s)		src/linker/syscall.s
 리스트 10.21	文字列表示用ライブラリ(service.c)		src/linker/service.c
 리스트 10.22	スタートアップ(crt.c)				src/linker/crt.c
 리스트 10.23	サンプルプログラム(main.c)			src/linker/main.c
@@ -262,19 +262,19 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 리스트 10.26	サンプルプログラムの実行結果			src/linker/sample.exec
 리스트 10.27	シンボル解決用ライブラリ(linklib.h)		src/linker/linklib.h
 리스트 10.28	シンボル解決用ライブラリ(linklib.c)		src/linker/linklib.c
-리스트 10.29	ダイナミックリンカ(dynlink.c)			src/linker/dynlink.c
-리스트 10.30	ダイナミックリンカの実行結果			src/linker/dynlink.exec
-리스트 10.31	実行形式用のリンカ(linker.c)			src/linker/linker.c
-리스트 10.32	実行形式用リンカの実行結果			src/linker/linker.exec
-리스트 10.33	リンカで作成した実行形式の実行結果		src/linker/sample2.exec
-리스트 10.34	PowerPC用のシンボル解決				---
+리스트 10.29	다이나믹 링커(dynlink.c)			src/linker/dynlink.c
+리스트 10.30	다이나믹 링커의 실행결과			src/linker/dynlink.exec
+리스트 10.31	실행형식용 링커(linker.c)			src/linker/linker.c
+리스트 10.32	실행형식용 링커의 실행결과			src/linker/linker.exec
+리스트 10.33	링커로 작성한 실행 형식의 실행 결과		src/linker/sample2.exec
+리스트 10.34	PowerPC용 심볼 해결				---
 --------------------------------------------------------------------------------
 리스트 11.1	라이브러리 사용 샘플 프로그램(sample.c)	src/shared/sample.c
 리스트 11.2       라이브러리 사용 샘플 프로그램(main.c)	src/shared/main.c
 그림 11.7		sample_shared 의 실행결과			src/shared/sample_shared.exec
 그림 11.11		sample_static 의 실행결과			src/shared/sample_static.exec
 그림 11.13		readelf -a sample_pic.o 의 출력결과		src/shared/sample_pic.o.re
-리스트 11.3	i386の再配置種別(/usr/include/machine/elf.h 에서 발췌)
+리스트 11.3	i386의 재배치 종류(/usr/include/machine/elf.h 에서 발췌)
 								---
 그림 11.14		objdump -d sample_pic.o 의 출력결과		src/shared/sample_pic.o.ra
 그림 11.15		readelf -a libsample.so.1 의 출력결과		src/shared/libsample.so.1.re
