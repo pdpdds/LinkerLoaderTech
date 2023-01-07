@@ -195,73 +195,73 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 리스트 7.5	usr/initramfs_data.S 中のコメント		---
 리스트 7.6	リンカスクリプト(bindata.scr)			src/binary/bindata.scr
 --------------------------------------------------------------------------------
-리스트 8.1	ELF形式のロード部分(imgact_elf.c)		---
-그림 8.1		man execl より抜粋				---
-그림 8.2		readelf -S /bin/ls の結果			src/loader/ls.shdr
-그림 8.3		readelf -S /usr/bin/gcc の結果			src/loader/gcc.shdr
-리스트 8.2	リンカスクリプトの修正				src/loader/ldscript.diff
-그림 8.4		readelf -l /bin/ls の結果			src/loader/ls.phdr
-리스트 8.3	フラグ変更用のプログラム(chflg.c)		src/loader/chflg.c
-리스트 8.4	_start()の先頭部分(crt1.c)			---
+리스트 8.1	ELF 형식의 로드부분(imgact_elf.c)		---
+그림 8.1		man execl 에서 발췌				---
+그림 8.2		readelf -S /bin/ls 의 결과			src/loader/ls.shdr
+그림 8.3		readelf -S /usr/bin/gcc 의 결과			src/loader/gcc.shdr
+리스트 8.2	링커 스크립트의 수정				src/loader/ldscript.diff
+그림 8.4		readelf -l /bin/ls 의 결과			src/loader/ls.phdr
+리스트 8.3	플래그 변경용 프로그램(chflg.c)		src/loader/chflg.c
+리스트 8.4	_start()의 선두부분(crt1.c)			---
 리스트 8.5	(stack_sample.c)				src/stack/stack_sample.c
 리스트 8.6	(stack_sample.s)				src/stack/stack_sample.s
-리스트 8.7	簡易ローダ(loader.c)				src/loader/loader.c
-리스트 8.8	ロード対象のサンプルプログラム(sample.c)	src/loader/sample.c
-그림 8.7		簡易ローダの実行結果				src/loader/loader.out
+리스트 8.7	간이 로더(loader.c)				src/loader/loader.c
+리스트 8.8	로드 대상 샘플 프로그램(sample.c)	src/loader/sample.c
+그림 8.7		간이 로더의 실행결과				src/loader/loader.out
 --------------------------------------------------------------------------------
-리스트 9.1	コアダンプ作成用プログラム(down.c)		src/core/down.c
-그림 9.3		実行形式のセクション構成			src/core/down.readelf
-그림 9.4		コアダンプの解析				src/core/core.readelf
+리스트 9.1	코어덤프 작성용 프로그램(down.c)		src/core/down.c
+그림 9.3		실행형식의 섹션 구성			src/core/down.readelf
+그림 9.4		코어덤프 해석				src/core/core.readelf
 리스트 9.2	elf_puthdr()					---
 리스트 9.3	elf_putnote()					---
-리스트 9.4	Elf_Note の定義(elf_common.h)			---
-리스트 9.5	prstatus_t の定義(procfs.h)			---
-리스트 9.6	struct reg の定義(reg.h)			---
-리스트 9.7	struct fpreg の定義(reg.h)			---
-리스트 9.8	prpsinfo_t の定義(procfs.h)			---
-그림 9.5		コアダンプの解析				src/core/nm.out
-그림 9.6		変数 count 付近のダンプ				---
-리스트 9.9	実行再開用のプログラム(continue.c)		src/continue/continue.c
-리스트 9.10	実行再開の実験用サンプルプログラム(calc.c)	src/continue/calc.c
-그림 9.7		calc.c の実行結果				src/continue/calc.comp
+리스트 9.4	Elf_Note 의 정의(elf_common.h)			---
+리스트 9.5	prstatus_t 의 정의(procfs.h)			---
+리스트 9.6	struct reg 의 정의(reg.h)			---
+리스트 9.7	struct fpreg 의 정의(reg.h)			---
+리스트 9.8	prpsinfo_t 의 정의(procfs.h)			---
+그림 9.5		코어덤프 해석				src/core/nm.out
+그림 9.6		변수 count 부근의 덤프				---
+리스트 9.9	실행재개용 프로그램(continue.c)		src/continue/continue.c
+리스트 9.10	실행재개의 실험용 샘플 프로그램(calc.c)	src/continue/calc.c
+그림 9.7		calc.c 의 실행결과				src/continue/calc.comp
 								src/continue/calc.out
-그림 9.10		実行の再開					src/continue/continue.out
-리스트 9.A	_setjmp()/_longjmp() の利用例(setjmp.c)		src/setjmp/setjmp.c
-그림 9.A		setjmp.c の実行結果				src/setjmp/setjmp.out
-리스트 9.B	_setjmp()/_longjmp() のソース(_setjmp.S)	src/setjmp/_setjmp.S
-리스트 9.C	_setjmp() 呼び出し後にスタックが破壊される例(setjmp2.c)
+그림 9.10		실행의 재개					src/continue/continue.out
+리스트 9.A	_setjmp()/_longjmp() 의 이용 예(setjmp.c)		src/setjmp/setjmp.c
+그림 9.A		setjmp.c 의 실행결과				src/setjmp/setjmp.out
+리스트 9.B	_setjmp()/_longjmp() 소스(_setjmp.S)	src/setjmp/_setjmp.S
+리스트 9.C	_setjmp() 호출후에 스택이 파괴되는 예(setjmp2.c)
 								src/setjmp/setjmp2.c
-그림 9.B		setjmp2.c の実行結果				src/setjmp/setjmp2.out
+그림 9.B		setjmp2.c 의 실행결과				src/setjmp/setjmp2.out
 --------------------------------------------------------------------------------
-리스트 10.1	逆アセンブル用のサンプルプログラム(rasm.c)	src/rasm/rasm.c
-리스트 10.2	逆アセンブル用のサンプルプログラム(rasm2.c)	src/rasm/rasm2.c
-리스트 10.3	rasm.o の逆アセンブル結果			src/rasm/rasm.o.ra
-리스트 10.4	rasm の逆アセンブル結果				src/rasm/rasm.ra
-리스트 10.5	rasm.o のセクション，再配置テーブル，シンボルテーブル
+리스트 10.1	역어셈블리용 샘플 프로그램(rasm.c)	src/rasm/rasm.c
+리스트 10.2	역어셈블리용 샘플 프로그램(rasm2.c)	src/rasm/rasm2.c
+리스트 10.3	rasm.o 의 역어셈블 결과			src/rasm/rasm.o.ra
+리스트 10.4	rasm 의 역어셈블 결과				src/rasm/rasm.ra
+리스트 10.5	rasm.o 의 섹션, 재배치 테이블, 심볼 테이블
 								src/rasm/rasm.o.re
-리스트 10.6	rasm2.o のシンボルテーブル			src/rasm/rasm2.o.re
-리스트 10.7	rasm のシンボルテーブル				src/rasm/rasm.re
-리스트 10.8	i386依存の定義(/usr/include/machine/elf.h)	---
-리스트 10.9	weak シンボルの定義の例(weak.c)			src/weak/weak.c
-리스트 10.10	グローバルシンボルの定義の例(global.c)		src/weak/global.c
-리스트 10.11	weak シンボルの利用の例(main.c)			src/weak/main.c
-리스트 10.12	global.o をリンクした場合の実行結果		src/weak/global.exec
-리스트 10.13	global.o をリンクしなかった場合の実行結果	src/weak/noglobal.exec
-리스트 10.14	実行形式 global のシンボルテーブル(抜粋)	src/weak/global.nm
-리스트 10.15	実行形式 noglobal のシンボルテーブル(抜粋)	src/weak/noglobal.nm
-리스트 10.16	ライブラリアーカイブを利用した場合の実行結果	src/weak/global_a.exec
+리스트 10.6	rasm2.o 의 심볼 테이블			src/rasm/rasm2.o.re
+리스트 10.7	rasm 의 심볼 테이블				src/rasm/rasm.re
+리스트 10.8	i386 의존 정의(/usr/include/machine/elf.h)	---
+리스트 10.9	weak 심볼 정의의 예(weak.c)			src/weak/weak.c
+리스트 10.10	글로벌 심볼의 정의 예(global.c)		src/weak/global.c
+리스트 10.11	weak 심볼 사용의 예(main.c)			src/weak/main.c
+리스트 10.12	global.o 를 링크한 경우의 실행결과		src/weak/global.exec
+리스트 10.13	global.o 를 링크하지 않은 경우의 실행결과	src/weak/noglobal.exec
+리스트 10.14	실행형식 global 의 심볼 테이블(발췌)	src/weak/global.nm
+리스트 10.15	실행형식 noglobal 의 심볼 테이블(발췌)	src/weak/noglobal.nm
+리스트 10.16	라이브러리 아카이브를 사용한 경우의 실행결과	src/weak/global_a.exec
 리스트 10.17	man syscall					---
 리스트 10.18	__syscall() 의 호출				---
 리스트 10.19	syscall()의 정의(발췌)				---
-리스트 10.20	(syscall.s)		src/linker/syscall.s
-리스트 10.21	文字列表示用ライブラリ(service.c)		src/linker/service.c
-리스트 10.22	スタートアップ(crt.c)				src/linker/crt.c
-리스트 10.23	サンプルプログラム(main.c)			src/linker/main.c
-리스트 10.24	サンプルプログラム(sample.c)			src/linker/sample.c
-리스트 10.25	サンプルプログラム(sample2.c)			src/linker/sample2.c
-리스트 10.26	サンプルプログラムの実行結果			src/linker/sample.exec
-리스트 10.27	シンボル解決用ライブラリ(linklib.h)		src/linker/linklib.h
-리스트 10.28	シンボル解決用ライブラリ(linklib.c)		src/linker/linklib.c
+리스트 10.20	시스템콜용 라이브러리(syscall.s)		src/linker/syscall.s
+리스트 10.21	문자열 표시용 라이브러리(service.c)		src/linker/service.c
+리스트 10.22	스타트업(crt.c)				src/linker/crt.c
+리스트 10.23	샘플 프로그램(main.c)			src/linker/main.c
+리스트 10.24	샘플 프로그램(sample.c)			src/linker/sample.c
+리스트 10.25	샘플 프로그램(sample2.c)			src/linker/sample2.c
+리스트 10.26	샘플 프로그램의 실행결과			src/linker/sample.exec
+리스트 10.27	심볼 해결용 라이브러리(linklib.h)		src/linker/linklib.h
+리스트 10.28	심볼 해결용 라이브러리(linklib.c)		src/linker/linklib.c
 리스트 10.29	다이나믹 링커(dynlink.c)			src/linker/dynlink.c
 리스트 10.30	다이나믹 링커의 실행결과			src/linker/dynlink.exec
 리스트 10.31	실행형식용 링커(linker.c)			src/linker/linker.c
