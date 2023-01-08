@@ -1,2 +1,0 @@
-% ld -r layer_sub1.o layer_sub2.o -o layer_lib.o
-% 

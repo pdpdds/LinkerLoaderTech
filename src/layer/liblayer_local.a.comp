@@ -1,2 +1,0 @@
-% objcopy --localize-symbol=num liblayer.a liblayer_local.a
-% 

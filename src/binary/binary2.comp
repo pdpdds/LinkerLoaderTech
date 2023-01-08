@@ -1,3 +1,0 @@
-% gcc -c incbin.s
-% gcc binary.o incbin.o -o binary2
-% 

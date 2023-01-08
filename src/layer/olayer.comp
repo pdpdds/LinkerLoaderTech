@@ -1,2 +1,0 @@
-% gcc layer.o layer_lib.o -o olayer
-% 

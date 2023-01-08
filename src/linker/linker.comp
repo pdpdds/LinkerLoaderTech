@@ -1,2 +1,0 @@
-% gcc linker.c linklib.o -o linker -Wall
-% 

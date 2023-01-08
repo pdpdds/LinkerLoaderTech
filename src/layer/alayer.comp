@@ -1,2 +1,0 @@
-% gcc layer.o -o alayer -L. -llayer
-% 

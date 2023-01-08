@@ -1,1 +1,0 @@
-% gcc initialize.c -Wall -o initialize

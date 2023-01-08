@@ -1,2 +1,0 @@
-% gcc -static main.o -L. -lsample -o sample_static
-% 

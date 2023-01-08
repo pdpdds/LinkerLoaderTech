@@ -1,1 +1,0 @@
-% gcc layer2.o layer_lib_local.o -o olayer2_local

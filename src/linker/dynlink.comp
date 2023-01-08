@@ -1,4 +1,0 @@
-% gcc dynlink.c linklib.o -o dynlink -Wall
-% gcc chflg.c -o chflg -Wall
-% ./chflg ./dynlink
-% 

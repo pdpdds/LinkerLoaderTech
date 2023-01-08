@@ -1,2 +1,0 @@
-% objcopy --localize-symbol=a const_sub.o const_sub_local.o
-% 

@@ -1,2 +1,0 @@
-% gcc -c readsec.c -Wall
-% gcc readsec.o -Wall -o readsec

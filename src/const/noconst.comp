@@ -1,2 +1,0 @@
-% gcc const.o const_sub.o -Wall -o noconst -T elf_i386.x.noconst
-% 

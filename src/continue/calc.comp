@@ -1,2 +1,0 @@
-% gcc calc.c -o calc -static -Wall
-% 

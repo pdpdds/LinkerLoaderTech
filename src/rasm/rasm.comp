@@ -1,2 +1,0 @@
-% gcc rasm.o rasm2.o -o rasm -Wall
-% 

@@ -1,2 +1,0 @@
-% objcopy --redefine-sym a=b const_sub.o const_sub_b.o
-% 

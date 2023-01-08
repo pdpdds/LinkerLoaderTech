@@ -1,2 +1,0 @@
-% gcc -c elfdump.c -Wall
-% gcc elfdump.o -Wall -o elfdump
