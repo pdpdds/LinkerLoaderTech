@@ -168,8 +168,8 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 리스트 6.8	정의 불가능한 초기값 영역			---
 리스트 6.9	변수 작성 샘플 스크립트(valiable.lds)	src/linksamp/valiable.lds
 리스트 6.10	변수 작성 샘플 프로그램(valiable.c)	src/linksamp/valiable.c
-리스트 6.11	FILL()の 사용방법				---
-리스트 6.12	FILLEXPの사용방법				---
+리스트 6.11	FILL()  사용방법				---
+리스트 6.12	FILLEXP 의 사용방법				---
 그림 6.13		valiable 의 해석 결과(발췌)			src/linksamp/valiable.od
 그림 6.14		valiable 의 실행결과			src/linksamp/valiable.out
 리스트 6.13	섹션 작성 서식				---
