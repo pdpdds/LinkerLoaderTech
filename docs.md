@@ -86,114 +86,114 @@ src 디렉토리 아래에 있으므로 필요하다면 찾아보는 것이 좋�
 리스트2.18	elfdump elfsamp.o 의 실행결과			src/elfsamp/elfdump-o.exec
 리스트2.19	elfdump elfsamp 의 		src/elfsamp/elfdump.exec
 --------------------------------------------------------------------------------
-리스트3.1	アーカイブヘッダの定義(ar.h より抜粋)		src/ar/ar.h
-리스트3.2	4.4BSD由来のアーカイブ(bsdar.a)			src/ar/bsdar.a
-리스트3.3	GNU binutils のアーカイブ(gnuar.a)		src/ar/gnuar.a
-리스트3.4	アーカイブファイルのダンプ(readname.c)		src/ar/readname.c
-리스트3.5	アーカイブファイルの解析(ardump.c)		src/ar/ardump.c
-리스트3.6	オブジェクトファイル(ardump.o)の解析例		src/ar/ardump.exec
-리스트3.7	ライブラリアーカイブ(/usr/lib/libc.a)の解析例	src/ar/ardump.exec2
-리스트3.8	main() 関数(main.c)				src/link/main.c
-리스트3.9	サンプルファイル１(samp1.c)			src/link/samp1.c
-리스트3.10	サンプルファイル２(samp2.c)			src/link/samp2.c
-리스트3.11	サンプルファイル３(samp3.c)			src/link/samp3.c
-리스트3.12	サンプルファイル４(samp4.c)			src/link/samp4.c
-리스트 3.13	サンプルファイル２の修正(samp2.c)		src/link/samp2d.c
+리스트3.1	아카이브 헤더의 정의(ar.h 에서 발췌)		src/ar/ar.h
+리스트3.2	4.4 BSD 유래의 아카이브(bsdar.a)			src/ar/bsdar.a
+리스트3.3	GNU binutils 의 아카이브(gnuar.a)		src/ar/gnuar.a
+리스트3.4	아카이브 파일의 덤프(readname.c)		src/ar/readname.c
+리스트3.5	아카이브 파일의 해석(ardump.c)		src/ar/ardump.c
+리스트3.6	오브젝트 파일(ardump.o)의 해석 예		src/ar/ardump.exec
+리스트3.7	라이브러리 아카이브(/usr/lib/libc.a)의 해석 예	src/ar/ardump.exec2
+리스트3.8	main() 함수(main.c)				src/link/main.c
+리스트3.9	샘플 파일１(samp1.c)			src/link/samp1.c
+리스트3.10	샘플 파일２(samp2.c)			src/link/samp2.c
+리스트3.11	샘플 파일３(samp3.c)			src/link/samp3.c
+리스트3.12	샘플 파일４(samp4.c)			src/link/samp4.c
+리스트 3.13	샘플 파일２의 수정(samp2.c)		src/link/samp2d.c
 ---		checksym.c					src/checksym/checksym.c
 --------------------------------------------------------------------------------
-리스트 4.1	配列とポインタ(pointer.c)			src/pointer/pointer.c
-그림 4.2		nm pointer の結果				src/pointer/pointer.nm
-그림 4.3		objdump -h pointer の結果			src/pointer/pointer.od
-리스트 .2	const 定義した変数に値を代入する(const.c)	src/const/const.c
-리스트 4.3	const 定義した変数に値を代入する(const_sub.c)	src/const/const_sub.c
-그림 4.8		nm const の結果					src/const/const.nm
-그림 4.9		objdump -h const の結果				src/const/const.od
-리스트 4.4	リンカスクリプトの修正				src/const/elf_i386.diff
-그림 4.12		nm noconst の結果				src/const/noconst.nm
-그림 4.13		objdump -h noconst の結果			src/const/noconst.od
-리스트 4.5	シンボルタイプについて(info nm より抜粋)	---
-리스트 4.6	変数 b の参照(const_b.c)			src/const/const_b.c
-리스트 4.7	変数 num の参照(layer.c)			src/layer/layer.c
-리스트 4.8	変数 num の定義(layer_sub1.c)			src/layer/layer_sub1.c
-리스트 4.9	変数 num の参照(layer_sub2.c)			src/layer/layer_sub2.c
-그림 4.27		nm liblayer.a の結果				src/layer/liblayer.a.nm
-그림 4.31		nm liblayer_local.a の結果			src/layer/liblayer_local.a.nm
-그림 4.35		nm layer_lib.o の結果				src/layer/layer_lib.o.nm
-그림 4.38		nm layer_lib_local.o の結果			src/layer/layer_lib_local.o.nm
-리스트 4.10	変数 num を操作しない(layer2.c)			src/layer/layer2.c
-그림 4.41		シンボルが重複する場合				src/layer/layer_lib2.o.comp
-리스트 4.11	NetBSD/hpcsh 用リンカスクリプト(ehl-elf.x より抜粋)
+리스트 4.1	배열과 포인터(pointer.c)			src/pointer/pointer.c
+그림 4.2		nm pointer 의 결과				src/pointer/pointer.nm
+그림 4.3		objdump -h pointer 의 결과			src/pointer/pointer.od
+리스트 .2	const 정의한 변수에 값을 대입한다(const.c)	src/const/const.c
+리스트 4.3	const 정의한 변수에 값을 대입한다(const_sub.c)	src/const/const_sub.c
+그림 4.8		nm const 의 결과					src/const/const.nm
+그림 4.9		objdump -h const 의 결과				src/const/const.od
+리스트 4.4	링커 스크립트의 수정				src/const/elf_i386.diff
+그림 4.12		nm noconst 의 결과				src/const/noconst.nm
+그림 4.13		objdump -h noconst 의 결과			src/const/noconst.od
+리스트 4.5	심볼 타입에 대해(info nm 에서 발췌)	---
+리스트 4.6	변수 b 의 참조(const_b.c)			src/const/const_b.c
+리스트 4.7	변수 num 의 참조(layer.c)			src/layer/layer.c
+리스트 4.8	변수 num 의 정의(layer_sub1.c)			src/layer/layer_sub1.c
+리스트 4.9	변수 num 의 참조(layer_sub2.c)			src/layer/layer_sub2.c
+그림 4.27		nm liblayer.a 의 결과				src/layer/liblayer.a.nm
+그림 4.31		nm liblayer_local.a 의 결과			src/layer/liblayer_local.a.nm
+그림 4.35		nm layer_lib.o 의 결과				src/layer/layer_lib.o.nm
+그림 4.38		nm layer_lib_local.o 의 결과			src/layer/layer_lib_local.o.nm
+리스트 4.10	변수 num 을 조작하지 않는다(layer2.c)			src/layer/layer2.c
+그림 4.41		심볼이 중복되는 경우				src/layer/layer_lib2.o.comp
+리스트 4.11	NetBSD/hpcsh 용 링커 스크립트(ehl-elf.x 에서 발췌)
 								---
-리스트 4.12	PROVIDE()の指定(elf_i386.x より抜粋)		---
-리스트 4.13	シンボルのアドレスの表示(edata.c)		src/edata/edata.c
-그림 4.46		objdump -h edata の結果				src/edata/edata.od
-리스트 4.14	初期化を任意に行なう(initialize.c)		src/initialize/initialize.c
-그림 4.47		initialize の実行結果				src/initialize/initialize.comp
+리스트 4.12	PROVIDE() 의 지정(elf_i386.x 에서 발췌)		---
+리스트 4.13	심볼의 어드레스 표시(edata.c)		src/edata/edata.c
+그림 4.46		objdump -h edata 의 결과				src/edata/edata.od
+리스트 4.14	초기화를 임의로 수행한다(initialize.c)		src/initialize/initialize.c
+그림 4.47		initialize 의 실행결과				src/initialize/initialize.comp
 								src/initialize/initialize.exec
-리스트 4.15	do_ctors()の定義(crtbegin.cより抜粋)		---
-리스트 4.16	ctor_end[]の定義(crtend.c より抜粋)		---
-리스트 4.17	.ctors セクションの定義(elf_i386.xより抜粋)	---
-리스트 4.18	関数の自動呼び出し(ctors.c)			src/ctors/ctors.c
-그림 4.48		ctors のアドレス配置				src/ctors/ctors.comp
+리스트 4.15	do_ctors()의 정의(crtbegin.c 에서 발췌)		---
+리스트 4.16	ctor_end[] 의 정의(crtend.c 에서 발췌)		---
+리스트 4.17	.ctors 섹션 정의(elf_i386.x 에서 발췌)	---
+리스트 4.18	함수 자동 호출(ctors.c)			src/ctors/ctors.c
+그림 4.48		ctors 의 어드레스 배치				src/ctors/ctors.comp
 								src/ctors/ctors.nm
 								src/ctors/ctors.od
-리스트 4.19	do_dtors()の定義(crtbegin.cより抜粋)		---
-리스트 4.20	atexit() による _fini() の登録(crt1.c:_start()より抜粋)
+리스트 4.19	do_dtors()의 정의(crtbegin.c 에서 발췌)		---
+리스트 4.20	atexit() 를 통한 _fini() 의 등록(crt1.c:_start()에서 발췌)
 								---
-리스트 4.21	exit()の定義(exit.cより抜粋)			---
-리스트 4.22	constructor, destructor 属性の利用(constructor.c)
+리스트 4.21	exit()의 정의(exit.c에서 발췌)			---
+리스트 4.22	constructor, destructor 속성 사용(constructor.c)
 								src/constructor/constructor.c
 --------------------------------------------------------------------------------
-리스트 5.1	ソースファイルの例(main.c)			src/linksamp/main.c
-리스트 5.2	ソースファイルの例(lib1.c)			src/linksamp/lib1.c
-리스트 5.3	ソースファイルの例(lib2.c)			src/linksamp/lib2.c
-리스트 5.4	objdump による解析(main.o)			src/linksamp/main.od
-리스트 5.5	objdump による解析(lib1.o)			src/linksamp/lib1.od
-리스트 5.6	objdump による解析(lib2.o)			src/linksamp/lib2.od
-리스트 5.7	objdump による解析(linksamp)			src/linksamp/linksamp.od
-리스트 5.8	簡単なリンカスクリプトの例(sample.lds)		src/linksamp/sample.lds
-리스트 5.9	objdump による解析(otherscr)			src/linksamp/otherscr.od
+리스트 5.1	소스 파일의 예(main.c)			src/linksamp/main.c
+리스트 5.2	소스 파일의 예(lib1.c)			src/linksamp/lib1.c
+리스트 5.3	소스 파일의 예(lib2.c)			src/linksamp/lib2.c
+리스트 5.4	objdump 를 통한 해석(main.o)			src/linksamp/main.od
+리스트 5.5	objdump 를 통한 해석(lib1.o)			src/linksamp/lib1.od
+리스트 5.6	objdump 를 통한 해석(lib2.o)			src/linksamp/lib2.od
+리스트 5.7	objdump 를 통한 해석(linksamp)			src/linksamp/linksamp.od
+리스트 5.8	간단한 링커 스크립트의 예(sample.lds)		src/linksamp/sample.lds
+리스트 5.9	objdump 를 통한 해석(otherscr)			src/linksamp/otherscr.od
 --------------------------------------------------------------------------------
-리스트 6.1	簡単なリンカスクリプトの例(sample.lds)		src/linksamp/sample.lds
-리스트 6.2	命令書き換えの例(overwrite.c)			src/linksamp/overwrite.c
-리스트 6.3	シンボル作成のサンプルスクリプト(addr.lds)	src/linksamp/addr.lds
-리스트 6.4	シンボル作成のサンプルプログラム(addr.c)	src/linksamp/addr.c
-그림 6.6		addr の解析結果(抜粋)				src/linksamp/addr.od
-그림 6.7		addr の実行結果					src/linksamp/addr.out
-리스트 6.5	シンボル衝突のサンプルスクリプト(conflict.lds)	src/linksamp/conflict.lds
-리스트 6.6	シンボル衝突のサンプルプログラム(conflict.c)	src/linksamp/conflict.c
-그림 6.10		conflict の解析結果(抜粋)			src/linksamp/conflict.od
-그림 6.11		conflict の実行結果				src/linksamp/conflict.out
-리스트 .7	定義可能な初期値ありの領域			---
-리스트 6.8	定義不可能な初期値ありの領域			---
-리스트 6.9	変数作成のサンプルスクリプト(valiable.lds)	src/linksamp/valiable.lds
-리스트 6.10	変数作成のサンプルプログラム(valiable.c)	src/linksamp/valiable.c
-리스트 6.11	FILL()の利用方法				---
-리스트 6.12	FILLEXPの利用方法				---
-그림 6.13		valiable の解析結果(抜粋)			src/linksamp/valiable.od
-그림 6.14		valiable の実行結果				src/linksamp/valiable.out
-리스트 6.13	セクションの作成書式				---
-리스트 6.14	セクションの記述				---
-리스트 6.15	LMA指定のサンプルスクリプト(lma.lds)		src/linksamp/lma.lds
-그림 6.16		lma の解析結果(抜粋)				src/linksamp/lma.od
-그림 6.17		nm lma の結果					src/linksamp/lma.nm
+리스트 6.1	간단한 링커 스크립트의 예(sample.lds)		src/linksamp/sample.lds
+리스트 6.2	명령 고쳐쓰기의 예(overwrite.c)			src/linksamp/overwrite.c
+리스트 6.3	심볼 작성의 샘플 스크립트(addr.lds)	src/linksamp/addr.lds
+리스트 6.4	심볼 작성의 샘플 프로그램(addr.c)	src/linksamp/addr.c
+그림 6.6		addr 의 해석 결과(발췌)				src/linksamp/addr.od
+그림 6.7		addr 의 실행결과					src/linksamp/addr.out
+리스트 6.5	심볼 충돌의 샘플 스크립트(conflict.lds)	src/linksamp/conflict.lds
+리스트 6.6	심볼 충돌의 샘플 프로그램(conflict.c)	src/linksamp/conflict.c
+그림 6.10		conflict 의 해석 결과(발췌)			src/linksamp/conflict.od
+그림 6.11		conflict 의 실행결과				src/linksamp/conflict.out
+리스트 .7	정의 가능한 초기값 영역			---
+리스트 6.8	정의 불가능한 초기값 영역			---
+리스트 6.9	변수 작성 샘플 스크립트(valiable.lds)	src/linksamp/valiable.lds
+리스트 6.10	변수 작성 샘플 프로그램(valiable.c)	src/linksamp/valiable.c
+리스트 6.11	FILL()の 사용방법				---
+리스트 6.12	FILLEXPの사용방법				---
+그림 6.13		valiable 의 해석 결과(발췌)			src/linksamp/valiable.od
+그림 6.14		valiable 의 실행결과			src/linksamp/valiable.out
+리스트 6.13	섹션 작성 서식				---
+리스트 6.14	섹션 기술				---
+리스트 6.15	LMA 지정 샘플 스크립트(lma.lds)		src/linksamp/lma.lds
+그림 6.16		lma 의 해석결과(발췌)				src/linksamp/lma.od
+그림 6.17		nm lma 의 결과					src/linksamp/lma.nm
 --------------------------------------------------------------------------------
-리스트 7.1	リンクの順番のサンプルプログラム(ordermain.c, ...)
+리스트 7.1	링크 순서의 샘플 프로그램(ordermain.c, ...)
 								src/order/ordermain.c
 								src/order/order1.c
 								src/order/order2.c
-리스트 7.2	重複シンボルのサンプルプログラム(dupmain.c, ...)
+리스트 7.2	중복 심볼 샘플 프로그램(dupmain.c, ...)
 								src/duplicate/dupmain.c
 								src/duplicate/duptest1.c
 								src/duplicate/duptest2.c
 								src/duplicate/dup1.c
 								src/duplicate/dup2.c
-리스트 7.3	バイナリデータの焼き込み(binary.c)		src/binary/binary.c
-그림 7.21		nm binary の結果				src/binary/binary.nm
-그림 7.22		objdump -h binary の結果			src/binary/binary.od
-리스트 7.4	.incbin の利用(incbin.s)			src/binary/incbin.s
-리스트 7.5	usr/initramfs_data.S 中のコメント		---
-리스트 7.6	リンカスクリプト(bindata.scr)			src/binary/bindata.scr
+리스트 7.3	바이너리 데이터의 담금질(binary.c)		src/binary/binary.c
+그림 7.21		nm binary 의 결과				src/binary/binary.nm
+그림 7.22		objdump -h binary 의 결과			src/binary/binary.od
+리스트 7.4	.incbin 의 사용(incbin.s)			src/binary/incbin.s
+리스트 7.5	usr/initramfs_data.S 안의 코멘트		---
+리스트 7.6	링커 스크립트(bindata.scr)			src/binary/bindata.scr
 --------------------------------------------------------------------------------
 리스트 8.1	ELF 형식의 로드부분(imgact_elf.c)		---
 그림 8.1		man execl 에서 발췌				---
