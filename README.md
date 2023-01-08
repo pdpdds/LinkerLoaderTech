@@ -101,7 +101,7 @@ WSL2 우분투 20.04 LTS에서 정상적으로 빌드됨을 확인하였습니�
 
 ## 레퍼런스
 * [서적링크](http://kozos.jp/books/linker_book.html)  
-* [서적 링커,로더 실전개발 테크닉 발매기념 인터뷰](http://www.kumikomi.net/archives/2010/08/post_28.php)
+* [링커, 로더 실전개발 테크닉 발매기념 인터뷰](http://www.kumikomi.net/archives/2010/08/post_28.php)
 
 
 
